@@ -1,3022 +1,3022 @@
 [
   {
-    "Dato": "2020-03-01",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-03-02",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-03-03",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-03-04",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-03-05",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-03-06",
-    "Hovedstaden": 3,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-03-07",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-03-08",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-03-09",
-    "Hovedstaden": 3,
-    "Sjælland": 6,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 10
-  },
-  {
-    "Dato": "2020-03-10",
-    "Hovedstaden": 6,
-    "Sjælland": 5,
-    "Syddanmark": 1,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-03-11",
-    "Hovedstaden": 4,
-    "Sjælland": 4,
-    "Syddanmark": 2,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 10
-  },
-  {
-    "Dato": "2020-03-12",
-    "Hovedstaden": 3,
-    "Sjælland": 6,
-    "Syddanmark": 1,
-    "Midtjylland": 7,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 18
-  },
-  {
-    "Dato": "2020-03-13",
-    "Hovedstaden": 13,
-    "Sjælland": 2,
-    "Syddanmark": 3,
-    "Midtjylland": 7,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 26
-  },
-  {
-    "Dato": "2020-03-14",
-    "Hovedstaden": 9,
-    "Sjælland": 6,
-    "Syddanmark": 3,
-    "Midtjylland": 3,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 24
-  },
-  {
-    "Dato": "2020-03-15",
-    "Hovedstaden": 18,
-    "Sjælland": 5,
-    "Syddanmark": 3,
-    "Midtjylland": 4,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 33
-  },
-  {
-    "Dato": "2020-03-16",
-    "Hovedstaden": 23,
-    "Sjælland": 12,
-    "Syddanmark": 5,
-    "Midtjylland": 3,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 45
-  },
-  {
-    "Dato": "2020-03-17",
-    "Hovedstaden": 25,
-    "Sjælland": 8,
-    "Syddanmark": 5,
-    "Midtjylland": 6,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 47
-  },
-  {
-    "Dato": "2020-03-18",
-    "Hovedstaden": 21,
-    "Sjælland": 13,
-    "Syddanmark": 5,
-    "Midtjylland": 4,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 47
-  },
-  {
-    "Dato": "2020-03-19",
-    "Hovedstaden": 29,
-    "Sjælland": 6,
-    "Syddanmark": 6,
-    "Midtjylland": 4,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 50
-  },
-  {
-    "Dato": "2020-03-20",
-    "Hovedstaden": 33,
-    "Sjælland": 14,
-    "Syddanmark": 10,
-    "Midtjylland": 5,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 64
-  },
-  {
-    "Dato": "2020-03-21",
-    "Hovedstaden": 14,
-    "Sjælland": 10,
-    "Syddanmark": 4,
-    "Midtjylland": 4,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-03-22",
-    "Hovedstaden": 22,
-    "Sjælland": 7,
-    "Syddanmark": 3,
-    "Midtjylland": 7,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 42
-  },
-  {
-    "Dato": "2020-03-23",
-    "Hovedstaden": 43,
-    "Sjælland": 11,
-    "Syddanmark": 10,
-    "Midtjylland": 16,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 85
-  },
-  {
-    "Dato": "2020-03-24",
-    "Hovedstaden": 37,
-    "Sjælland": 11,
-    "Syddanmark": 12,
-    "Midtjylland": 14,
-    "Nordjylland": 6,
-    "UkendtRegion": 1,
-    "Total": 81
-  },
-  {
-    "Dato": "2020-03-25",
-    "Hovedstaden": 40,
-    "Sjælland": 18,
-    "Syddanmark": 14,
-    "Midtjylland": 14,
-    "Nordjylland": 6,
-    "UkendtRegion": 0,
-    "Total": 92
-  },
-  {
-    "Dato": "2020-03-26",
-    "Hovedstaden": 41,
-    "Sjælland": 11,
-    "Syddanmark": 10,
-    "Midtjylland": 12,
-    "Nordjylland": 7,
-    "UkendtRegion": 1,
-    "Total": 82
-  },
-  {
-    "Dato": "2020-03-27",
-    "Hovedstaden": 38,
-    "Sjælland": 16,
-    "Syddanmark": 19,
-    "Midtjylland": 11,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 89
-  },
-  {
-    "Dato": "2020-03-28",
-    "Hovedstaden": 31,
-    "Sjælland": 20,
-    "Syddanmark": 16,
-    "Midtjylland": 10,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 82
-  },
-  {
-    "Dato": "2020-03-29",
-    "Hovedstaden": 25,
-    "Sjælland": 9,
-    "Syddanmark": 9,
-    "Midtjylland": 4,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 52
-  },
-  {
-    "Dato": "2020-03-30",
-    "Hovedstaden": 39,
-    "Sjælland": 13,
-    "Syddanmark": 4,
-    "Midtjylland": 11,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 69
-  },
-  {
-    "Dato": "2020-03-31",
-    "Hovedstaden": 28,
-    "Sjælland": 8,
-    "Syddanmark": 4,
-    "Midtjylland": 9,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 51
-  },
-  {
-    "Dato": "2020-04-01",
-    "Hovedstaden": 29,
-    "Sjælland": 8,
-    "Syddanmark": 12,
-    "Midtjylland": 6,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 60
-  },
-  {
-    "Dato": "2020-04-02",
-    "Hovedstaden": 39,
-    "Sjælland": 13,
-    "Syddanmark": 7,
-    "Midtjylland": 10,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 74
-  },
-  {
-    "Dato": "2020-04-03",
-    "Hovedstaden": 33,
-    "Sjælland": 8,
-    "Syddanmark": 8,
-    "Midtjylland": 11,
-    "Nordjylland": 12,
-    "UkendtRegion": 0,
-    "Total": 72
-  },
-  {
-    "Dato": "2020-04-04",
-    "Hovedstaden": 26,
-    "Sjælland": 7,
-    "Syddanmark": 0,
-    "Midtjylland": 7,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 44
-  },
-  {
-    "Dato": "2020-04-05",
-    "Hovedstaden": 23,
-    "Sjælland": 5,
-    "Syddanmark": 4,
-    "Midtjylland": 2,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 36
-  },
-  {
-    "Dato": "2020-04-06",
-    "Hovedstaden": 28,
-    "Sjælland": 10,
-    "Syddanmark": 7,
-    "Midtjylland": 4,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 51
-  },
-  {
-    "Dato": "2020-04-07",
-    "Hovedstaden": 36,
-    "Sjælland": 8,
-    "Syddanmark": 6,
-    "Midtjylland": 6,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 56
-  },
-  {
-    "Dato": "2020-04-08",
-    "Hovedstaden": 14,
-    "Sjælland": 5,
-    "Syddanmark": 5,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 28
-  },
-  {
-    "Dato": "2020-04-09",
-    "Hovedstaden": 18,
-    "Sjælland": 7,
-    "Syddanmark": 1,
-    "Midtjylland": 8,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-04-10",
-    "Hovedstaden": 16,
-    "Sjælland": 7,
-    "Syddanmark": 1,
-    "Midtjylland": 6,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-04-11",
-    "Hovedstaden": 17,
-    "Sjælland": 5,
-    "Syddanmark": 5,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 31
-  },
-  {
-    "Dato": "2020-04-12",
-    "Hovedstaden": 13,
-    "Sjælland": 5,
-    "Syddanmark": 3,
-    "Midtjylland": 4,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 27
-  },
-  {
-    "Dato": "2020-04-13",
-    "Hovedstaden": 18,
-    "Sjælland": 7,
-    "Syddanmark": 1,
-    "Midtjylland": 4,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 30
-  },
-  {
-    "Dato": "2020-04-14",
-    "Hovedstaden": 23,
-    "Sjælland": 8,
-    "Syddanmark": 3,
-    "Midtjylland": 10,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 46
-  },
-  {
-    "Dato": "2020-04-15",
-    "Hovedstaden": 12,
-    "Sjælland": 11,
-    "Syddanmark": 1,
-    "Midtjylland": 5,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 30
-  },
-  {
-    "Dato": "2020-04-16",
-    "Hovedstaden": 17,
-    "Sjælland": 6,
-    "Syddanmark": 1,
-    "Midtjylland": 9,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 33
-  },
-  {
-    "Dato": "2020-04-17",
-    "Hovedstaden": 13,
-    "Sjælland": 10,
-    "Syddanmark": 2,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 27
-  },
-  {
-    "Dato": "2020-04-18",
-    "Hovedstaden": 15,
-    "Sjælland": 9,
-    "Syddanmark": 1,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 27
-  },
-  {
-    "Dato": "2020-04-19",
-    "Hovedstaden": 20,
-    "Sjælland": 9,
-    "Syddanmark": 0,
-    "Midtjylland": 4,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-04-20",
-    "Hovedstaden": 16,
-    "Sjælland": 11,
-    "Syddanmark": 2,
-    "Midtjylland": 4,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 33
-  },
-  {
-    "Dato": "2020-04-21",
-    "Hovedstaden": 18,
-    "Sjælland": 13,
-    "Syddanmark": 2,
-    "Midtjylland": 5,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 38
-  },
-  {
-    "Dato": "2020-04-22",
-    "Hovedstaden": 15,
-    "Sjælland": 9,
-    "Syddanmark": 3,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 29
-  },
-  {
-    "Dato": "2020-04-23",
-    "Hovedstaden": 16,
-    "Sjælland": 11,
-    "Syddanmark": 1,
-    "Midtjylland": 4,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 33
-  },
-  {
-    "Dato": "2020-04-24",
-    "Hovedstaden": 9,
-    "Sjælland": 9,
-    "Syddanmark": 1,
-    "Midtjylland": 2,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 22
-  },
-  {
-    "Dato": "2020-04-25",
-    "Hovedstaden": 18,
-    "Sjælland": 7,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 27
-  },
-  {
-    "Dato": "2020-04-26",
-    "Hovedstaden": 20,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 26
-  },
-  {
-    "Dato": "2020-04-27",
-    "Hovedstaden": 8,
-    "Sjælland": 11,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-04-28",
-    "Hovedstaden": 12,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-04-29",
-    "Hovedstaden": 9,
-    "Sjælland": 4,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-04-30",
-    "Hovedstaden": 10,
-    "Sjælland": 5,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 17
-  },
-  {
-    "Dato": "2020-05-01",
-    "Hovedstaden": 9,
-    "Sjælland": 5,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 16
-  },
-  {
-    "Dato": "2020-05-02",
-    "Hovedstaden": 14,
-    "Sjælland": 5,
-    "Syddanmark": 0,
-    "Midtjylland": 5,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 24
-  },
-  {
-    "Dato": "2020-05-03",
-    "Hovedstaden": 13,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 16
-  },
-  {
-    "Dato": "2020-05-04",
-    "Hovedstaden": 8,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-05-05",
-    "Hovedstaden": 8,
-    "Sjælland": 8,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 16
-  },
-  {
-    "Dato": "2020-05-06",
-    "Hovedstaden": 4,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-05-07",
-    "Hovedstaden": 11,
-    "Sjælland": 4,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-05-08",
-    "Hovedstaden": 6,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 9
-  },
-  {
-    "Dato": "2020-05-09",
-    "Hovedstaden": 4,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 10
-  },
-  {
-    "Dato": "2020-05-10",
-    "Hovedstaden": 7,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 10
-  },
-  {
-    "Dato": "2020-05-11",
-    "Hovedstaden": 6,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 8
-  },
-  {
-    "Dato": "2020-05-12",
-    "Hovedstaden": 6,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 8
-  },
-  {
-    "Dato": "2020-05-13",
-    "Hovedstaden": 4,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-05-14",
-    "Hovedstaden": 9,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 13
-  },
-  {
-    "Dato": "2020-05-15",
-    "Hovedstaden": 5,
-    "Sjælland": 7,
-    "Syddanmark": 4,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 17
-  },
-  {
-    "Dato": "2020-05-16",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-05-17",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-05-18",
-    "Hovedstaden": 9,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-05-19",
-    "Hovedstaden": 4,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-05-20",
-    "Hovedstaden": 2,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-05-21",
-    "Hovedstaden": 3,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-05-22",
-    "Hovedstaden": 9,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 13
-  },
-  {
-    "Dato": "2020-05-23",
-    "Hovedstaden": 5,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 9
-  },
-  {
-    "Dato": "2020-05-24",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-05-25",
-    "Hovedstaden": 4,
-    "Sjælland": 0,
-    "Syddanmark": 2,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-05-26",
-    "Hovedstaden": 7,
-    "Sjælland": 0,
-    "Syddanmark": 3,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 11
-  },
-  {
-    "Dato": "2020-05-27",
-    "Hovedstaden": 5,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-05-28",
-    "Hovedstaden": 5,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-05-29",
-    "Hovedstaden": 8,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 9
-  },
-  {
-    "Dato": "2020-05-30",
-    "Hovedstaden": 5,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-05-31",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-01",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-02",
-    "Hovedstaden": 4,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-06-03",
-    "Hovedstaden": 1,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-06-04",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-05",
-    "Hovedstaden": 7,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 9
-  },
-  {
-    "Dato": "2020-06-06",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-06-07",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-08",
-    "Hovedstaden": 3,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-09",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-06-10",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-06-11",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-06-12",
-    "Hovedstaden": 3,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-06-13",
-    "Hovedstaden": 3,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-14",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-06-15",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-06-16",
-    "Hovedstaden": 2,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-06-17",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-18",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-06-19",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-20",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-21",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-22",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-23",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-24",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-25",
-    "Hovedstaden": 3,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-06-26",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-06-27",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-06-28",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-06-29",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-06-30",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-07-01",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-02",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-07-03",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-07-04",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-07-05",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-06",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-07",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-08",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-07-09",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-10",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-11",
-    "Hovedstaden": 4,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-07-12",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-07-13",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 0
-  },
-  {
-    "Dato": "2020-07-14",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-15",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-16",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-07-17",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-18",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-19",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-20",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-21",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-22",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-07-23",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-07-24",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-25",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-07-26",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-27",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-07-28",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-07-29",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-07-30",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-07-31",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-01",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-08-02",
-    "Hovedstaden": 0,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-08-03",
-    "Hovedstaden": 1,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-08-04",
-    "Hovedstaden": 1,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-08-05",
-    "Hovedstaden": 3,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 4,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-08-06",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-07",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-08-08",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-09",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-08-10",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-08-11",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-12",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-13",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-08-14",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-08-15",
-    "Hovedstaden": 0,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 2
-  },
-  {
-    "Dato": "2020-08-16",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-08-17",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 8
-  },
-  {
-    "Dato": "2020-08-18",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-08-19",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-08-20",
-    "Hovedstaden": 1,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 5,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-08-21",
-    "Hovedstaden": 0,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 2,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-08-22",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-23",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-08-24",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-25",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-26",
-    "Hovedstaden": 2,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 2,
-    "Total": 8
-  },
-  {
-    "Dato": "2020-08-27",
-    "Hovedstaden": 0,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-08-28",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-08-29",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-08-30",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 3
-  },
-  {
-    "Dato": "2020-08-31",
-    "Hovedstaden": 2,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-09-01",
-    "Hovedstaden": 1,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 1
-  },
-  {
-    "Dato": "2020-09-02",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 2,
-    "Midtjylland": 0,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 5
-  },
-  {
-    "Dato": "2020-09-03",
-    "Hovedstaden": 2,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 4
-  },
-  {
-    "Dato": "2020-09-04",
-    "Hovedstaden": 4,
-    "Sjælland": 0,
-    "Syddanmark": 2,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 8
-  },
-  {
-    "Dato": "2020-09-05",
-    "Hovedstaden": 5,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 4,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 12
-  },
-  {
-    "Dato": "2020-09-06",
-    "Hovedstaden": 6,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 9
-  },
-  {
-    "Dato": "2020-09-07",
-    "Hovedstaden": 5,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 7
-  },
-  {
-    "Dato": "2020-09-08",
-    "Hovedstaden": 2,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 0,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 6
-  },
-  {
-    "Dato": "2020-09-09",
-    "Hovedstaden": 8,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 13
-  },
-  {
-    "Dato": "2020-09-10",
-    "Hovedstaden": 10,
-    "Sjælland": 1,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-09-11",
-    "Hovedstaden": 4,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 11
-  },
-  {
-    "Dato": "2020-09-12",
-    "Hovedstaden": 10,
-    "Sjælland": 1,
-    "Syddanmark": 3,
-    "Midtjylland": 2,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 17
-  },
-  {
-    "Dato": "2020-09-13",
-    "Hovedstaden": 5,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 10
-  },
-  {
-    "Dato": "2020-09-14",
-    "Hovedstaden": 7,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 0,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 13
-  },
-  {
-    "Dato": "2020-09-15",
-    "Hovedstaden": 9,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-09-16",
-    "Hovedstaden": 12,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 2,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-09-17",
-    "Hovedstaden": 3,
-    "Sjælland": 3,
-    "Syddanmark": 0,
-    "Midtjylland": 3,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 13
-  },
-  {
-    "Dato": "2020-09-18",
-    "Hovedstaden": 9,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 1,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-09-19",
-    "Hovedstaden": 10,
-    "Sjælland": 2,
-    "Syddanmark": 4,
-    "Midtjylland": 4,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 24
-  },
-  {
-    "Dato": "2020-09-20",
-    "Hovedstaden": 13,
-    "Sjælland": 0,
-    "Syddanmark": 2,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 19
-  },
-  {
-    "Dato": "2020-09-21",
-    "Hovedstaden": 10,
-    "Sjælland": 1,
-    "Syddanmark": 4,
-    "Midtjylland": 1,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-09-22",
-    "Hovedstaden": 9,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-09-23",
-    "Hovedstaden": 12,
-    "Sjælland": 5,
-    "Syddanmark": 2,
-    "Midtjylland": 2,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 24
-  },
-  {
-    "Dato": "2020-09-24",
-    "Hovedstaden": 10,
-    "Sjælland": 3,
-    "Syddanmark": 6,
-    "Midtjylland": 4,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 26
-  },
-  {
-    "Dato": "2020-09-25",
-    "Hovedstaden": 12,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 1,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 18
-  },
-  {
-    "Dato": "2020-09-26",
-    "Hovedstaden": 5,
-    "Sjælland": 2,
-    "Syddanmark": 0,
-    "Midtjylland": 4,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 12
-  },
-  {
-    "Dato": "2020-09-27",
-    "Hovedstaden": 10,
-    "Sjælland": 3,
-    "Syddanmark": 3,
-    "Midtjylland": 2,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 19
-  },
-  {
-    "Dato": "2020-09-28",
-    "Hovedstaden": 13,
-    "Sjælland": 1,
-    "Syddanmark": 6,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-09-29",
-    "Hovedstaden": 6,
-    "Sjælland": 0,
-    "Syddanmark": 2,
-    "Midtjylland": 4,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-09-30",
-    "Hovedstaden": 8,
-    "Sjælland": 4,
-    "Syddanmark": 2,
-    "Midtjylland": 5,
-    "Nordjylland": 0,
-    "UkendtRegion": 1,
-    "Total": 20
-  },
-  {
-    "Dato": "2020-10-01",
-    "Hovedstaden": 7,
-    "Sjælland": 2,
-    "Syddanmark": 4,
-    "Midtjylland": 8,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 23
-  },
-  {
-    "Dato": "2020-10-02",
-    "Hovedstaden": 6,
-    "Sjælland": 5,
-    "Syddanmark": 1,
-    "Midtjylland": 4,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 19
-  },
-  {
-    "Dato": "2020-10-03",
-    "Hovedstaden": 9,
-    "Sjælland": 0,
-    "Syddanmark": 0,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 11
-  },
-  {
-    "Dato": "2020-10-04",
-    "Hovedstaden": 11,
-    "Sjælland": 1,
-    "Syddanmark": 4,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-10-05",
-    "Hovedstaden": 15,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 8,
-    "Nordjylland": 2,
-    "UkendtRegion": 1,
-    "Total": 30
-  },
-  {
-    "Dato": "2020-10-06",
-    "Hovedstaden": 7,
-    "Sjælland": 0,
-    "Syddanmark": 2,
-    "Midtjylland": 1,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 10
-  },
-  {
-    "Dato": "2020-10-07",
-    "Hovedstaden": 9,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 16
-  },
-  {
-    "Dato": "2020-10-08",
-    "Hovedstaden": 3,
-    "Sjælland": 1,
-    "Syddanmark": 1,
-    "Midtjylland": 4,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 9
-  },
-  {
-    "Dato": "2020-10-09",
-    "Hovedstaden": 3,
-    "Sjælland": 2,
-    "Syddanmark": 3,
-    "Midtjylland": 4,
-    "Nordjylland": 2,
-    "UkendtRegion": 1,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-10-10",
-    "Hovedstaden": 5,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 2,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-10-11",
-    "Hovedstaden": 6,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 3,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 14
-  },
-  {
-    "Dato": "2020-10-12",
-    "Hovedstaden": 12,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 8,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 24
-  },
-  {
-    "Dato": "2020-10-13",
-    "Hovedstaden": 8,
-    "Sjælland": 1,
-    "Syddanmark": 3,
-    "Midtjylland": 4,
-    "Nordjylland": 1,
-    "UkendtRegion": 2,
-    "Total": 19
-  },
-  {
-    "Dato": "2020-10-14",
-    "Hovedstaden": 10,
-    "Sjælland": 1,
-    "Syddanmark": 2,
-    "Midtjylland": 5,
-    "Nordjylland": 2,
-    "UkendtRegion": 2,
-    "Total": 22
-  },
-  {
-    "Dato": "2020-10-15",
-    "Hovedstaden": 11,
-    "Sjælland": 0,
-    "Syddanmark": 1,
-    "Midtjylland": 4,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-10-16",
-    "Hovedstaden": 8,
-    "Sjælland": 3,
-    "Syddanmark": 1,
-    "Midtjylland": 5,
-    "Nordjylland": 1,
-    "UkendtRegion": 3,
-    "Total": 21
-  },
-  {
-    "Dato": "2020-10-17",
-    "Hovedstaden": 8,
-    "Sjælland": 2,
-    "Syddanmark": 1,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 15
-  },
-  {
-    "Dato": "2020-10-18",
-    "Hovedstaden": 10,
-    "Sjælland": 0,
-    "Syddanmark": 5,
-    "Midtjylland": 6,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 24
-  },
-  {
-    "Dato": "2020-10-19",
-    "Hovedstaden": 10,
-    "Sjælland": 5,
-    "Syddanmark": 3,
-    "Midtjylland": 5,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 25
-  },
-  {
-    "Dato": "2020-10-20",
-    "Hovedstaden": 10,
-    "Sjælland": 1,
-    "Syddanmark": 4,
-    "Midtjylland": 3,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 19
-  },
-  {
-    "Dato": "2020-10-21",
-    "Hovedstaden": 13,
-    "Sjælland": 2,
-    "Syddanmark": 4,
-    "Midtjylland": 5,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 25
-  },
-  {
-    "Dato": "2020-10-22",
-    "Hovedstaden": 12,
-    "Sjælland": 2,
-    "Syddanmark": 2,
-    "Midtjylland": 2,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 18
-  },
-  {
-    "Dato": "2020-10-23",
-    "Hovedstaden": 12,
-    "Sjælland": 5,
-    "Syddanmark": 2,
-    "Midtjylland": 3,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 27
-  },
-  {
-    "Dato": "2020-10-24",
-    "Hovedstaden": 11,
-    "Sjælland": 3,
-    "Syddanmark": 2,
-    "Midtjylland": 4,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 22
-  },
-  {
-    "Dato": "2020-10-25",
-    "Hovedstaden": 13,
-    "Sjælland": 1,
-    "Syddanmark": 7,
-    "Midtjylland": 2,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 27
-  },
-  {
-    "Dato": "2020-10-26",
-    "Hovedstaden": 12,
-    "Sjælland": 7,
-    "Syddanmark": 2,
-    "Midtjylland": 6,
-    "Nordjylland": 3,
-    "UkendtRegion": 2,
-    "Total": 32
-  },
-  {
-    "Dato": "2020-10-27",
-    "Hovedstaden": 16,
-    "Sjælland": 1,
-    "Syddanmark": 4,
-    "Midtjylland": 9,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 35
-  },
-  {
-    "Dato": "2020-10-28",
-    "Hovedstaden": 12,
-    "Sjælland": 2,
-    "Syddanmark": 5,
-    "Midtjylland": 6,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 30
-  },
-  {
-    "Dato": "2020-10-29",
-    "Hovedstaden": 18,
-    "Sjælland": 2,
-    "Syddanmark": 8,
-    "Midtjylland": 5,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 37
-  },
-  {
-    "Dato": "2020-10-30",
-    "Hovedstaden": 11,
-    "Sjælland": 4,
-    "Syddanmark": 5,
-    "Midtjylland": 8,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 33
-  },
-  {
-    "Dato": "2020-10-31",
-    "Hovedstaden": 21,
-    "Sjælland": 5,
-    "Syddanmark": 6,
-    "Midtjylland": 4,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 39
-  },
-  {
-    "Dato": "2020-11-01",
-    "Hovedstaden": 15,
-    "Sjælland": 1,
-    "Syddanmark": 12,
-    "Midtjylland": 8,
-    "Nordjylland": 1,
-    "UkendtRegion": 2,
-    "Total": 39
-  },
-  {
-    "Dato": "2020-11-02",
-    "Hovedstaden": 21,
-    "Sjælland": 4,
-    "Syddanmark": 8,
-    "Midtjylland": 4,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 40
-  },
-  {
-    "Dato": "2020-11-03",
-    "Hovedstaden": 21,
-    "Sjælland": 6,
-    "Syddanmark": 3,
-    "Midtjylland": 4,
-    "Nordjylland": 7,
-    "UkendtRegion": 0,
-    "Total": 41
-  },
-  {
-    "Dato": "2020-11-04",
-    "Hovedstaden": 22,
-    "Sjælland": 11,
-    "Syddanmark": 6,
-    "Midtjylland": 7,
-    "Nordjylland": 6,
-    "UkendtRegion": 0,
-    "Total": 52
-  },
-  {
-    "Dato": "2020-11-05",
-    "Hovedstaden": 16,
-    "Sjælland": 9,
-    "Syddanmark": 12,
-    "Midtjylland": 7,
-    "Nordjylland": 5,
-    "UkendtRegion": 0,
-    "Total": 49
-  },
-  {
-    "Dato": "2020-11-06",
-    "Hovedstaden": 14,
-    "Sjælland": 2,
-    "Syddanmark": 6,
-    "Midtjylland": 8,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 32
-  },
-  {
-    "Dato": "2020-11-07",
-    "Hovedstaden": 12,
-    "Sjælland": 5,
-    "Syddanmark": 3,
-    "Midtjylland": 4,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 29
-  },
-  {
-    "Dato": "2020-11-08",
-    "Hovedstaden": 14,
-    "Sjælland": 7,
-    "Syddanmark": 7,
-    "Midtjylland": 6,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 39
-  },
-  {
-    "Dato": "2020-11-09",
-    "Hovedstaden": 25,
-    "Sjælland": 8,
-    "Syddanmark": 6,
-    "Midtjylland": 11,
-    "Nordjylland": 6,
-    "UkendtRegion": 0,
-    "Total": 56
-  },
-  {
-    "Dato": "2020-11-10",
-    "Hovedstaden": 15,
-    "Sjælland": 6,
-    "Syddanmark": 6,
-    "Midtjylland": 7,
-    "Nordjylland": 2,
-    "UkendtRegion": 1,
-    "Total": 37
-  },
-  {
-    "Dato": "2020-11-11",
-    "Hovedstaden": 26,
-    "Sjælland": 6,
-    "Syddanmark": 3,
-    "Midtjylland": 8,
-    "Nordjylland": 3,
-    "UkendtRegion": 3,
-    "Total": 49
-  },
-  {
-    "Dato": "2020-11-12",
-    "Hovedstaden": 14,
-    "Sjælland": 3,
-    "Syddanmark": 5,
-    "Midtjylland": 10,
-    "Nordjylland": 0,
-    "UkendtRegion": 2,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-11-13",
-    "Hovedstaden": 18,
-    "Sjælland": 5,
-    "Syddanmark": 3,
-    "Midtjylland": 10,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 39
-  },
-  {
-    "Dato": "2020-11-14",
-    "Hovedstaden": 16,
-    "Sjælland": 7,
-    "Syddanmark": 2,
-    "Midtjylland": 6,
-    "Nordjylland": 2,
-    "UkendtRegion": 1,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-11-15",
-    "Hovedstaden": 19,
-    "Sjælland": 3,
-    "Syddanmark": 2,
-    "Midtjylland": 8,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 32
-  },
-  {
-    "Dato": "2020-11-16",
-    "Hovedstaden": 26,
-    "Sjælland": 6,
-    "Syddanmark": 3,
-    "Midtjylland": 11,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 50
-  },
-  {
-    "Dato": "2020-11-17",
-    "Hovedstaden": 28,
-    "Sjælland": 4,
-    "Syddanmark": 11,
-    "Midtjylland": 15,
-    "Nordjylland": 3,
-    "UkendtRegion": 2,
-    "Total": 63
-  },
-  {
-    "Dato": "2020-11-18",
-    "Hovedstaden": 19,
-    "Sjælland": 6,
-    "Syddanmark": 7,
-    "Midtjylland": 11,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 46
-  },
-  {
-    "Dato": "2020-11-19",
-    "Hovedstaden": 14,
-    "Sjælland": 9,
-    "Syddanmark": 6,
-    "Midtjylland": 10,
-    "Nordjylland": 1,
-    "UkendtRegion": 2,
-    "Total": 42
-  },
-  {
-    "Dato": "2020-11-20",
-    "Hovedstaden": 16,
-    "Sjælland": 4,
-    "Syddanmark": 7,
-    "Midtjylland": 11,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 42
-  },
-  {
-    "Dato": "2020-11-21",
-    "Hovedstaden": 13,
-    "Sjælland": 5,
-    "Syddanmark": 7,
-    "Midtjylland": 5,
-    "Nordjylland": 0,
-    "UkendtRegion": 2,
-    "Total": 32
-  },
-  {
-    "Dato": "2020-11-22",
-    "Hovedstaden": 23,
-    "Sjælland": 3,
-    "Syddanmark": 5,
-    "Midtjylland": 4,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 40
-  },
-  {
-    "Dato": "2020-11-23",
-    "Hovedstaden": 22,
-    "Sjælland": 7,
-    "Syddanmark": 8,
-    "Midtjylland": 9,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 48
-  },
-  {
-    "Dato": "2020-11-24",
-    "Hovedstaden": 14,
-    "Sjælland": 5,
-    "Syddanmark": 5,
-    "Midtjylland": 11,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 39
-  },
-  {
-    "Dato": "2020-11-25",
-    "Hovedstaden": 20,
-    "Sjælland": 8,
-    "Syddanmark": 4,
-    "Midtjylland": 9,
-    "Nordjylland": 5,
-    "UkendtRegion": 1,
-    "Total": 47
-  },
-  {
-    "Dato": "2020-11-26",
-    "Hovedstaden": 21,
-    "Sjælland": 6,
-    "Syddanmark": 11,
-    "Midtjylland": 4,
-    "Nordjylland": 3,
-    "UkendtRegion": 3,
-    "Total": 48
-  },
-  {
-    "Dato": "2020-11-27",
-    "Hovedstaden": 16,
-    "Sjælland": 3,
-    "Syddanmark": 2,
-    "Midtjylland": 7,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 30
-  },
-  {
-    "Dato": "2020-11-28",
-    "Hovedstaden": 9,
-    "Sjælland": 5,
-    "Syddanmark": 5,
-    "Midtjylland": 8,
-    "Nordjylland": 3,
-    "UkendtRegion": 1,
-    "Total": 31
-  },
-  {
-    "Dato": "2020-11-29",
-    "Hovedstaden": 16,
-    "Sjælland": 7,
-    "Syddanmark": 4,
-    "Midtjylland": 7,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 34
-  },
-  {
-    "Dato": "2020-11-30",
-    "Hovedstaden": 26,
-    "Sjælland": 4,
-    "Syddanmark": 9,
-    "Midtjylland": 4,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 45
-  },
-  {
-    "Dato": "2020-12-01",
-    "Hovedstaden": 21,
-    "Sjælland": 3,
-    "Syddanmark": 7,
-    "Midtjylland": 17,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 50
-  },
-  {
-    "Dato": "2020-12-02",
-    "Hovedstaden": 24,
-    "Sjælland": 5,
-    "Syddanmark": 7,
-    "Midtjylland": 12,
-    "Nordjylland": 2,
-    "UkendtRegion": 4,
-    "Total": 54
-  },
-  {
-    "Dato": "2020-12-03",
-    "Hovedstaden": 32,
-    "Sjælland": 9,
-    "Syddanmark": 5,
-    "Midtjylland": 8,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 54
-  },
-  {
-    "Dato": "2020-12-04",
-    "Hovedstaden": 26,
-    "Sjælland": 10,
-    "Syddanmark": 5,
-    "Midtjylland": 13,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 56
-  },
-  {
-    "Dato": "2020-12-05",
-    "Hovedstaden": 35,
-    "Sjælland": 12,
-    "Syddanmark": 6,
-    "Midtjylland": 11,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 66
-  },
-  {
-    "Dato": "2020-12-06",
-    "Hovedstaden": 42,
-    "Sjælland": 13,
-    "Syddanmark": 4,
-    "Midtjylland": 10,
-    "Nordjylland": 0,
-    "UkendtRegion": 0,
-    "Total": 69
-  },
-  {
-    "Dato": "2020-12-07",
-    "Hovedstaden": 57,
-    "Sjælland": 12,
-    "Syddanmark": 6,
-    "Midtjylland": 14,
-    "Nordjylland": 1,
-    "UkendtRegion": 0,
-    "Total": 90
-  },
-  {
-    "Dato": "2020-12-08",
-    "Hovedstaden": 39,
-    "Sjælland": 8,
-    "Syddanmark": 4,
-    "Midtjylland": 8,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 62
-  },
-  {
-    "Dato": "2020-12-09",
-    "Hovedstaden": 46,
-    "Sjælland": 9,
-    "Syddanmark": 6,
-    "Midtjylland": 13,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 76
-  },
-  {
-    "Dato": "2020-12-10",
-    "Hovedstaden": 55,
-    "Sjælland": 17,
-    "Syddanmark": 12,
-    "Midtjylland": 14,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 100
-  },
-  {
-    "Dato": "2020-12-11",
-    "Hovedstaden": 47,
-    "Sjælland": 15,
-    "Syddanmark": 6,
-    "Midtjylland": 24,
-    "Nordjylland": 1,
-    "UkendtRegion": 1,
-    "Total": 94
-  },
-  {
-    "Dato": "2020-12-12",
-    "Hovedstaden": 56,
-    "Sjælland": 7,
-    "Syddanmark": 6,
-    "Midtjylland": 10,
-    "Nordjylland": 4,
-    "UkendtRegion": 2,
-    "Total": 85
-  },
-  {
-    "Dato": "2020-12-13",
-    "Hovedstaden": 57,
-    "Sjælland": 19,
-    "Syddanmark": 13,
-    "Midtjylland": 11,
-    "Nordjylland": 3,
-    "UkendtRegion": 0,
-    "Total": 103
-  },
-  {
-    "Dato": "2020-12-14",
-    "Hovedstaden": 72,
-    "Sjælland": 25,
-    "Syddanmark": 10,
-    "Midtjylland": 17,
-    "Nordjylland": 2,
-    "UkendtRegion": 0,
-    "Total": 126
-  },
-  {
-    "Dato": "2020-12-15",
-    "Hovedstaden": 74,
-    "Sjælland": 35,
-    "Syddanmark": 13,
-    "Midtjylland": 20,
-    "Nordjylland": 4,
-    "UkendtRegion": 0,
-    "Total": 146
-  },
-  {
-    "Dato": "2020-12-16",
-    "Hovedstaden": 92,
-    "Sjælland": 19,
-    "Syddanmark": 11,
-    "Midtjylland": 12,
-    "Nordjylland": 6,
-    "UkendtRegion": 1,
-    "Total": 141
-  },
-  {
-    "Dato": "2020-12-17",
-    "Hovedstaden": 87,
-    "Sjælland": 23,
-    "Syddanmark": 8,
-    "Midtjylland": 23,
-    "Nordjylland": 6,
-    "UkendtRegion": 1,
-    "Total": 148
-  },
-  {
-    "Dato": "2020-12-18",
-    "Hovedstaden": 85,
-    "Sjælland": 27,
-    "Syddanmark": 11,
-    "Midtjylland": 16,
-    "Nordjylland": 7,
-    "UkendtRegion": 2,
-    "Total": 148
-  },
-  {
-    "Dato": "2020-12-19",
-    "Hovedstaden": 92,
-    "Sjælland": 18,
-    "Syddanmark": 12,
-    "Midtjylland": 20,
-    "Nordjylland": 10,
-    "UkendtRegion": 1,
-    "Total": 153
-  },
-  {
-    "Dato": "2020-12-20",
-    "Hovedstaden": 67,
-    "Sjælland": 24,
-    "Syddanmark": 11,
-    "Midtjylland": 19,
-    "Nordjylland": 7,
-    "UkendtRegion": 0,
-    "Total": 128
-  },
-  {
-    "Dato": "2020-12-21",
-    "Hovedstaden": 101,
-    "Sjælland": 29,
-    "Syddanmark": 19,
-    "Midtjylland": 21,
-    "Nordjylland": 11,
-    "UkendtRegion": 2,
-    "Total": 183
-  },
-  {
-    "Dato": "2020-12-22",
-    "Hovedstaden": 76,
-    "Sjælland": 32,
-    "Syddanmark": 12,
-    "Midtjylland": 19,
-    "Nordjylland": 8,
-    "UkendtRegion": 0,
-    "Total": 147
-  },
-  {
-    "Dato": "2020-12-23",
-    "Hovedstaden": 73,
-    "Sjælland": 24,
-    "Syddanmark": 15,
-    "Midtjylland": 25,
-    "Nordjylland": 14,
-    "UkendtRegion": 0,
-    "Total": 151
-  },
-  {
-    "Dato": "2020-12-24",
-    "Hovedstaden": 67,
-    "Sjælland": 20,
-    "Syddanmark": 7,
-    "Midtjylland": 21,
-    "Nordjylland": 6,
-    "UkendtRegion": 1,
-    "Total": 122
-  },
-  {
-    "Dato": "2020-12-25",
-    "Hovedstaden": 98,
-    "Sjælland": 25,
-    "Syddanmark": 13,
-    "Midtjylland": 26,
-    "Nordjylland": 4,
-    "UkendtRegion": 1,
-    "Total": 167
-  },
-  {
-    "Dato": "2020-12-26",
-    "Hovedstaden": 82,
-    "Sjælland": 17,
-    "Syddanmark": 14,
-    "Midtjylland": 21,
-    "Nordjylland": 9,
-    "UkendtRegion": 1,
-    "Total": 144
-  },
-  {
-    "Dato": "2020-12-27",
-    "Hovedstaden": 77,
-    "Sjælland": 23,
-    "Syddanmark": 10,
-    "Midtjylland": 17,
-    "Nordjylland": 10,
-    "UkendtRegion": 0,
-    "Total": 137
+    "dato": "2020-03-01",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-03-02",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-03-03",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-03-04",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-03-05",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-03-06",
+    "hovedstaden": 3,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-03-07",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-03-08",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-03-09",
+    "hovedstaden": 3,
+    "sjælland": 6,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 10
+  },
+  {
+    "dato": "2020-03-10",
+    "hovedstaden": 6,
+    "sjælland": 5,
+    "syddanmark": 1,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 15
+  },
+  {
+    "dato": "2020-03-11",
+    "hovedstaden": 4,
+    "sjælland": 4,
+    "syddanmark": 2,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 10
+  },
+  {
+    "dato": "2020-03-12",
+    "hovedstaden": 3,
+    "sjælland": 6,
+    "syddanmark": 1,
+    "midtjylland": 7,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 18
+  },
+  {
+    "dato": "2020-03-13",
+    "hovedstaden": 13,
+    "sjælland": 2,
+    "syddanmark": 3,
+    "midtjylland": 7,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 26
+  },
+  {
+    "dato": "2020-03-14",
+    "hovedstaden": 9,
+    "sjælland": 6,
+    "syddanmark": 3,
+    "midtjylland": 3,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 24
+  },
+  {
+    "dato": "2020-03-15",
+    "hovedstaden": 18,
+    "sjælland": 5,
+    "syddanmark": 3,
+    "midtjylland": 4,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 33
+  },
+  {
+    "dato": "2020-03-16",
+    "hovedstaden": 23,
+    "sjælland": 12,
+    "syddanmark": 5,
+    "midtjylland": 3,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 45
+  },
+  {
+    "dato": "2020-03-17",
+    "hovedstaden": 25,
+    "sjælland": 8,
+    "syddanmark": 5,
+    "midtjylland": 6,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 47
+  },
+  {
+    "dato": "2020-03-18",
+    "hovedstaden": 21,
+    "sjælland": 13,
+    "syddanmark": 5,
+    "midtjylland": 4,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 47
+  },
+  {
+    "dato": "2020-03-19",
+    "hovedstaden": 29,
+    "sjælland": 6,
+    "syddanmark": 6,
+    "midtjylland": 4,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 50
+  },
+  {
+    "dato": "2020-03-20",
+    "hovedstaden": 33,
+    "sjælland": 14,
+    "syddanmark": 10,
+    "midtjylland": 5,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 64
+  },
+  {
+    "dato": "2020-03-21",
+    "hovedstaden": 14,
+    "sjælland": 10,
+    "syddanmark": 4,
+    "midtjylland": 4,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 34
+  },
+  {
+    "dato": "2020-03-22",
+    "hovedstaden": 22,
+    "sjælland": 7,
+    "syddanmark": 3,
+    "midtjylland": 7,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 42
+  },
+  {
+    "dato": "2020-03-23",
+    "hovedstaden": 43,
+    "sjælland": 11,
+    "syddanmark": 10,
+    "midtjylland": 16,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 85
+  },
+  {
+    "dato": "2020-03-24",
+    "hovedstaden": 37,
+    "sjælland": 11,
+    "syddanmark": 12,
+    "midtjylland": 14,
+    "nordjylland": 6,
+    "ukendtregion": 1,
+    "total": 81
+  },
+  {
+    "dato": "2020-03-25",
+    "hovedstaden": 40,
+    "sjælland": 18,
+    "syddanmark": 14,
+    "midtjylland": 14,
+    "nordjylland": 6,
+    "ukendtregion": 0,
+    "total": 92
+  },
+  {
+    "dato": "2020-03-26",
+    "hovedstaden": 41,
+    "sjælland": 11,
+    "syddanmark": 10,
+    "midtjylland": 12,
+    "nordjylland": 7,
+    "ukendtregion": 1,
+    "total": 82
+  },
+  {
+    "dato": "2020-03-27",
+    "hovedstaden": 38,
+    "sjælland": 16,
+    "syddanmark": 19,
+    "midtjylland": 11,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 89
+  },
+  {
+    "dato": "2020-03-28",
+    "hovedstaden": 31,
+    "sjælland": 20,
+    "syddanmark": 16,
+    "midtjylland": 10,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 82
+  },
+  {
+    "dato": "2020-03-29",
+    "hovedstaden": 25,
+    "sjælland": 9,
+    "syddanmark": 9,
+    "midtjylland": 4,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 52
+  },
+  {
+    "dato": "2020-03-30",
+    "hovedstaden": 39,
+    "sjælland": 13,
+    "syddanmark": 4,
+    "midtjylland": 11,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 69
+  },
+  {
+    "dato": "2020-03-31",
+    "hovedstaden": 28,
+    "sjælland": 8,
+    "syddanmark": 4,
+    "midtjylland": 9,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 51
+  },
+  {
+    "dato": "2020-04-01",
+    "hovedstaden": 29,
+    "sjælland": 8,
+    "syddanmark": 12,
+    "midtjylland": 6,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 60
+  },
+  {
+    "dato": "2020-04-02",
+    "hovedstaden": 39,
+    "sjælland": 13,
+    "syddanmark": 7,
+    "midtjylland": 10,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 74
+  },
+  {
+    "dato": "2020-04-03",
+    "hovedstaden": 33,
+    "sjælland": 8,
+    "syddanmark": 8,
+    "midtjylland": 11,
+    "nordjylland": 12,
+    "ukendtregion": 0,
+    "total": 72
+  },
+  {
+    "dato": "2020-04-04",
+    "hovedstaden": 26,
+    "sjælland": 7,
+    "syddanmark": 0,
+    "midtjylland": 7,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 44
+  },
+  {
+    "dato": "2020-04-05",
+    "hovedstaden": 23,
+    "sjælland": 5,
+    "syddanmark": 4,
+    "midtjylland": 2,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 36
+  },
+  {
+    "dato": "2020-04-06",
+    "hovedstaden": 28,
+    "sjælland": 10,
+    "syddanmark": 7,
+    "midtjylland": 4,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 51
+  },
+  {
+    "dato": "2020-04-07",
+    "hovedstaden": 36,
+    "sjælland": 8,
+    "syddanmark": 6,
+    "midtjylland": 6,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 56
+  },
+  {
+    "dato": "2020-04-08",
+    "hovedstaden": 14,
+    "sjælland": 5,
+    "syddanmark": 5,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 28
+  },
+  {
+    "dato": "2020-04-09",
+    "hovedstaden": 18,
+    "sjælland": 7,
+    "syddanmark": 1,
+    "midtjylland": 8,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 34
+  },
+  {
+    "dato": "2020-04-10",
+    "hovedstaden": 16,
+    "sjælland": 7,
+    "syddanmark": 1,
+    "midtjylland": 6,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 34
+  },
+  {
+    "dato": "2020-04-11",
+    "hovedstaden": 17,
+    "sjælland": 5,
+    "syddanmark": 5,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 31
+  },
+  {
+    "dato": "2020-04-12",
+    "hovedstaden": 13,
+    "sjælland": 5,
+    "syddanmark": 3,
+    "midtjylland": 4,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 27
+  },
+  {
+    "dato": "2020-04-13",
+    "hovedstaden": 18,
+    "sjælland": 7,
+    "syddanmark": 1,
+    "midtjylland": 4,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 30
+  },
+  {
+    "dato": "2020-04-14",
+    "hovedstaden": 23,
+    "sjælland": 8,
+    "syddanmark": 3,
+    "midtjylland": 10,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 46
+  },
+  {
+    "dato": "2020-04-15",
+    "hovedstaden": 12,
+    "sjælland": 11,
+    "syddanmark": 1,
+    "midtjylland": 5,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 30
+  },
+  {
+    "dato": "2020-04-16",
+    "hovedstaden": 17,
+    "sjælland": 6,
+    "syddanmark": 1,
+    "midtjylland": 9,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 33
+  },
+  {
+    "dato": "2020-04-17",
+    "hovedstaden": 13,
+    "sjælland": 10,
+    "syddanmark": 2,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 27
+  },
+  {
+    "dato": "2020-04-18",
+    "hovedstaden": 15,
+    "sjælland": 9,
+    "syddanmark": 1,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 27
+  },
+  {
+    "dato": "2020-04-19",
+    "hovedstaden": 20,
+    "sjælland": 9,
+    "syddanmark": 0,
+    "midtjylland": 4,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 34
+  },
+  {
+    "dato": "2020-04-20",
+    "hovedstaden": 16,
+    "sjælland": 11,
+    "syddanmark": 2,
+    "midtjylland": 4,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 33
+  },
+  {
+    "dato": "2020-04-21",
+    "hovedstaden": 18,
+    "sjælland": 13,
+    "syddanmark": 2,
+    "midtjylland": 5,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 38
+  },
+  {
+    "dato": "2020-04-22",
+    "hovedstaden": 15,
+    "sjælland": 9,
+    "syddanmark": 3,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 29
+  },
+  {
+    "dato": "2020-04-23",
+    "hovedstaden": 16,
+    "sjælland": 11,
+    "syddanmark": 1,
+    "midtjylland": 4,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 33
+  },
+  {
+    "dato": "2020-04-24",
+    "hovedstaden": 9,
+    "sjælland": 9,
+    "syddanmark": 1,
+    "midtjylland": 2,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 22
+  },
+  {
+    "dato": "2020-04-25",
+    "hovedstaden": 18,
+    "sjælland": 7,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 27
+  },
+  {
+    "dato": "2020-04-26",
+    "hovedstaden": 20,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 26
+  },
+  {
+    "dato": "2020-04-27",
+    "hovedstaden": 8,
+    "sjælland": 11,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 21
+  },
+  {
+    "dato": "2020-04-28",
+    "hovedstaden": 12,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 15
+  },
+  {
+    "dato": "2020-04-29",
+    "hovedstaden": 9,
+    "sjælland": 4,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 15
+  },
+  {
+    "dato": "2020-04-30",
+    "hovedstaden": 10,
+    "sjælland": 5,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 17
+  },
+  {
+    "dato": "2020-05-01",
+    "hovedstaden": 9,
+    "sjælland": 5,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 16
+  },
+  {
+    "dato": "2020-05-02",
+    "hovedstaden": 14,
+    "sjælland": 5,
+    "syddanmark": 0,
+    "midtjylland": 5,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 24
+  },
+  {
+    "dato": "2020-05-03",
+    "hovedstaden": 13,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 16
+  },
+  {
+    "dato": "2020-05-04",
+    "hovedstaden": 8,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 15
+  },
+  {
+    "dato": "2020-05-05",
+    "hovedstaden": 8,
+    "sjælland": 8,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 16
+  },
+  {
+    "dato": "2020-05-06",
+    "hovedstaden": 4,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-05-07",
+    "hovedstaden": 11,
+    "sjælland": 4,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 15
+  },
+  {
+    "dato": "2020-05-08",
+    "hovedstaden": 6,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 9
+  },
+  {
+    "dato": "2020-05-09",
+    "hovedstaden": 4,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 10
+  },
+  {
+    "dato": "2020-05-10",
+    "hovedstaden": 7,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 10
+  },
+  {
+    "dato": "2020-05-11",
+    "hovedstaden": 6,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 8
+  },
+  {
+    "dato": "2020-05-12",
+    "hovedstaden": 6,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 8
+  },
+  {
+    "dato": "2020-05-13",
+    "hovedstaden": 4,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-05-14",
+    "hovedstaden": 9,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 13
+  },
+  {
+    "dato": "2020-05-15",
+    "hovedstaden": 5,
+    "sjælland": 7,
+    "syddanmark": 4,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 17
+  },
+  {
+    "dato": "2020-05-16",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-05-17",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-05-18",
+    "hovedstaden": 9,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 14
+  },
+  {
+    "dato": "2020-05-19",
+    "hovedstaden": 4,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-05-20",
+    "hovedstaden": 2,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-05-21",
+    "hovedstaden": 3,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-05-22",
+    "hovedstaden": 9,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 13
+  },
+  {
+    "dato": "2020-05-23",
+    "hovedstaden": 5,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 9
+  },
+  {
+    "dato": "2020-05-24",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-05-25",
+    "hovedstaden": 4,
+    "sjælland": 0,
+    "syddanmark": 2,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-05-26",
+    "hovedstaden": 7,
+    "sjælland": 0,
+    "syddanmark": 3,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 11
+  },
+  {
+    "dato": "2020-05-27",
+    "hovedstaden": 5,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-05-28",
+    "hovedstaden": 5,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-05-29",
+    "hovedstaden": 8,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 9
+  },
+  {
+    "dato": "2020-05-30",
+    "hovedstaden": 5,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-05-31",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-01",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-02",
+    "hovedstaden": 4,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-06-03",
+    "hovedstaden": 1,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-06-04",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-05",
+    "hovedstaden": 7,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 9
+  },
+  {
+    "dato": "2020-06-06",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-06-07",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-08",
+    "hovedstaden": 3,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-09",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-06-10",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-06-11",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-06-12",
+    "hovedstaden": 3,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-06-13",
+    "hovedstaden": 3,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-14",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-06-15",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-06-16",
+    "hovedstaden": 2,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 7
+  },
+  {
+    "dato": "2020-06-17",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-18",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-06-19",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-20",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-21",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-22",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-23",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-24",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-25",
+    "hovedstaden": 3,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-06-26",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-06-27",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-06-28",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-06-29",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-06-30",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-07-01",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-02",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-07-03",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-07-04",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-07-05",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-06",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-07",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-08",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-07-09",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-10",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-11",
+    "hovedstaden": 4,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-07-12",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-07-13",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 0
+  },
+  {
+    "dato": "2020-07-14",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-15",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-16",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-07-17",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-18",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-19",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-20",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-21",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-22",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-07-23",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-07-24",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-25",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-07-26",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-27",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-07-28",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-07-29",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-07-30",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-07-31",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-01",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-08-02",
+    "hovedstaden": 0,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-08-03",
+    "hovedstaden": 1,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-08-04",
+    "hovedstaden": 1,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-08-05",
+    "hovedstaden": 3,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 4,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-08-06",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-07",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-08-08",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-09",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-08-10",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-08-11",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-12",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-13",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 4
+  },
+  {
+    "dato": "2020-08-14",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 6
+  },
+  {
+    "dato": "2020-08-15",
+    "hovedstaden": 0,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 2
+  },
+  {
+    "dato": "2020-08-16",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-08-17",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 8
+  },
+  {
+    "dato": "2020-08-18",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-08-19",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 6
+  },
+  {
+    "dato": "2020-08-20",
+    "hovedstaden": 1,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 5,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-08-21",
+    "hovedstaden": 0,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 2,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 5
+  },
+  {
+    "dato": "2020-08-22",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-23",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-08-24",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-25",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-26",
+    "hovedstaden": 2,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 2,
+    "total": 8
+  },
+  {
+    "dato": "2020-08-27",
+    "hovedstaden": 0,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-08-28",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 4
+  },
+  {
+    "dato": "2020-08-29",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-08-30",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 3
+  },
+  {
+    "dato": "2020-08-31",
+    "hovedstaden": 2,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-09-01",
+    "hovedstaden": 1,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 1
+  },
+  {
+    "dato": "2020-09-02",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 2,
+    "midtjylland": 0,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 5
+  },
+  {
+    "dato": "2020-09-03",
+    "hovedstaden": 2,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 4
+  },
+  {
+    "dato": "2020-09-04",
+    "hovedstaden": 4,
+    "sjælland": 0,
+    "syddanmark": 2,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 8
+  },
+  {
+    "dato": "2020-09-05",
+    "hovedstaden": 5,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 4,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 12
+  },
+  {
+    "dato": "2020-09-06",
+    "hovedstaden": 6,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 9
+  },
+  {
+    "dato": "2020-09-07",
+    "hovedstaden": 5,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 7
+  },
+  {
+    "dato": "2020-09-08",
+    "hovedstaden": 2,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 0,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 6
+  },
+  {
+    "dato": "2020-09-09",
+    "hovedstaden": 8,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 13
+  },
+  {
+    "dato": "2020-09-10",
+    "hovedstaden": 10,
+    "sjælland": 1,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 14
+  },
+  {
+    "dato": "2020-09-11",
+    "hovedstaden": 4,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 11
+  },
+  {
+    "dato": "2020-09-12",
+    "hovedstaden": 10,
+    "sjælland": 1,
+    "syddanmark": 3,
+    "midtjylland": 2,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 17
+  },
+  {
+    "dato": "2020-09-13",
+    "hovedstaden": 5,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 10
+  },
+  {
+    "dato": "2020-09-14",
+    "hovedstaden": 7,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 0,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 13
+  },
+  {
+    "dato": "2020-09-15",
+    "hovedstaden": 9,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 14
+  },
+  {
+    "dato": "2020-09-16",
+    "hovedstaden": 12,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 2,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 21
+  },
+  {
+    "dato": "2020-09-17",
+    "hovedstaden": 3,
+    "sjælland": 3,
+    "syddanmark": 0,
+    "midtjylland": 3,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 13
+  },
+  {
+    "dato": "2020-09-18",
+    "hovedstaden": 9,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 1,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 14
+  },
+  {
+    "dato": "2020-09-19",
+    "hovedstaden": 10,
+    "sjælland": 2,
+    "syddanmark": 4,
+    "midtjylland": 4,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 24
+  },
+  {
+    "dato": "2020-09-20",
+    "hovedstaden": 13,
+    "sjælland": 0,
+    "syddanmark": 2,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 19
+  },
+  {
+    "dato": "2020-09-21",
+    "hovedstaden": 10,
+    "sjælland": 1,
+    "syddanmark": 4,
+    "midtjylland": 1,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 21
+  },
+  {
+    "dato": "2020-09-22",
+    "hovedstaden": 9,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 14
+  },
+  {
+    "dato": "2020-09-23",
+    "hovedstaden": 12,
+    "sjælland": 5,
+    "syddanmark": 2,
+    "midtjylland": 2,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 24
+  },
+  {
+    "dato": "2020-09-24",
+    "hovedstaden": 10,
+    "sjælland": 3,
+    "syddanmark": 6,
+    "midtjylland": 4,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 26
+  },
+  {
+    "dato": "2020-09-25",
+    "hovedstaden": 12,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 1,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 18
+  },
+  {
+    "dato": "2020-09-26",
+    "hovedstaden": 5,
+    "sjælland": 2,
+    "syddanmark": 0,
+    "midtjylland": 4,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 12
+  },
+  {
+    "dato": "2020-09-27",
+    "hovedstaden": 10,
+    "sjælland": 3,
+    "syddanmark": 3,
+    "midtjylland": 2,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 19
+  },
+  {
+    "dato": "2020-09-28",
+    "hovedstaden": 13,
+    "sjælland": 1,
+    "syddanmark": 6,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 21
+  },
+  {
+    "dato": "2020-09-29",
+    "hovedstaden": 6,
+    "sjælland": 0,
+    "syddanmark": 2,
+    "midtjylland": 4,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 14
+  },
+  {
+    "dato": "2020-09-30",
+    "hovedstaden": 8,
+    "sjælland": 4,
+    "syddanmark": 2,
+    "midtjylland": 5,
+    "nordjylland": 0,
+    "ukendtregion": 1,
+    "total": 20
+  },
+  {
+    "dato": "2020-10-01",
+    "hovedstaden": 7,
+    "sjælland": 2,
+    "syddanmark": 4,
+    "midtjylland": 8,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 23
+  },
+  {
+    "dato": "2020-10-02",
+    "hovedstaden": 6,
+    "sjælland": 5,
+    "syddanmark": 1,
+    "midtjylland": 4,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 19
+  },
+  {
+    "dato": "2020-10-03",
+    "hovedstaden": 9,
+    "sjælland": 0,
+    "syddanmark": 0,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 11
+  },
+  {
+    "dato": "2020-10-04",
+    "hovedstaden": 11,
+    "sjælland": 1,
+    "syddanmark": 4,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 21
+  },
+  {
+    "dato": "2020-10-05",
+    "hovedstaden": 15,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 8,
+    "nordjylland": 2,
+    "ukendtregion": 1,
+    "total": 30
+  },
+  {
+    "dato": "2020-10-06",
+    "hovedstaden": 7,
+    "sjælland": 0,
+    "syddanmark": 2,
+    "midtjylland": 1,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 10
+  },
+  {
+    "dato": "2020-10-07",
+    "hovedstaden": 9,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 16
+  },
+  {
+    "dato": "2020-10-08",
+    "hovedstaden": 3,
+    "sjælland": 1,
+    "syddanmark": 1,
+    "midtjylland": 4,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 9
+  },
+  {
+    "dato": "2020-10-09",
+    "hovedstaden": 3,
+    "sjælland": 2,
+    "syddanmark": 3,
+    "midtjylland": 4,
+    "nordjylland": 2,
+    "ukendtregion": 1,
+    "total": 15
+  },
+  {
+    "dato": "2020-10-10",
+    "hovedstaden": 5,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 2,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 15
+  },
+  {
+    "dato": "2020-10-11",
+    "hovedstaden": 6,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 3,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 14
+  },
+  {
+    "dato": "2020-10-12",
+    "hovedstaden": 12,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 8,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 24
+  },
+  {
+    "dato": "2020-10-13",
+    "hovedstaden": 8,
+    "sjælland": 1,
+    "syddanmark": 3,
+    "midtjylland": 4,
+    "nordjylland": 1,
+    "ukendtregion": 2,
+    "total": 19
+  },
+  {
+    "dato": "2020-10-14",
+    "hovedstaden": 10,
+    "sjælland": 1,
+    "syddanmark": 2,
+    "midtjylland": 5,
+    "nordjylland": 2,
+    "ukendtregion": 2,
+    "total": 22
+  },
+  {
+    "dato": "2020-10-15",
+    "hovedstaden": 11,
+    "sjælland": 0,
+    "syddanmark": 1,
+    "midtjylland": 4,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 21
+  },
+  {
+    "dato": "2020-10-16",
+    "hovedstaden": 8,
+    "sjælland": 3,
+    "syddanmark": 1,
+    "midtjylland": 5,
+    "nordjylland": 1,
+    "ukendtregion": 3,
+    "total": 21
+  },
+  {
+    "dato": "2020-10-17",
+    "hovedstaden": 8,
+    "sjælland": 2,
+    "syddanmark": 1,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 15
+  },
+  {
+    "dato": "2020-10-18",
+    "hovedstaden": 10,
+    "sjælland": 0,
+    "syddanmark": 5,
+    "midtjylland": 6,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 24
+  },
+  {
+    "dato": "2020-10-19",
+    "hovedstaden": 10,
+    "sjælland": 5,
+    "syddanmark": 3,
+    "midtjylland": 5,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 25
+  },
+  {
+    "dato": "2020-10-20",
+    "hovedstaden": 10,
+    "sjælland": 1,
+    "syddanmark": 4,
+    "midtjylland": 3,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 19
+  },
+  {
+    "dato": "2020-10-21",
+    "hovedstaden": 13,
+    "sjælland": 2,
+    "syddanmark": 4,
+    "midtjylland": 5,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 25
+  },
+  {
+    "dato": "2020-10-22",
+    "hovedstaden": 12,
+    "sjælland": 2,
+    "syddanmark": 2,
+    "midtjylland": 2,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 18
+  },
+  {
+    "dato": "2020-10-23",
+    "hovedstaden": 12,
+    "sjælland": 5,
+    "syddanmark": 2,
+    "midtjylland": 3,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 27
+  },
+  {
+    "dato": "2020-10-24",
+    "hovedstaden": 11,
+    "sjælland": 3,
+    "syddanmark": 2,
+    "midtjylland": 4,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 22
+  },
+  {
+    "dato": "2020-10-25",
+    "hovedstaden": 13,
+    "sjælland": 1,
+    "syddanmark": 7,
+    "midtjylland": 2,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 27
+  },
+  {
+    "dato": "2020-10-26",
+    "hovedstaden": 12,
+    "sjælland": 7,
+    "syddanmark": 2,
+    "midtjylland": 6,
+    "nordjylland": 3,
+    "ukendtregion": 2,
+    "total": 32
+  },
+  {
+    "dato": "2020-10-27",
+    "hovedstaden": 16,
+    "sjælland": 1,
+    "syddanmark": 4,
+    "midtjylland": 9,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 35
+  },
+  {
+    "dato": "2020-10-28",
+    "hovedstaden": 12,
+    "sjælland": 2,
+    "syddanmark": 5,
+    "midtjylland": 6,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 30
+  },
+  {
+    "dato": "2020-10-29",
+    "hovedstaden": 18,
+    "sjælland": 2,
+    "syddanmark": 8,
+    "midtjylland": 5,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 37
+  },
+  {
+    "dato": "2020-10-30",
+    "hovedstaden": 11,
+    "sjælland": 4,
+    "syddanmark": 5,
+    "midtjylland": 8,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 33
+  },
+  {
+    "dato": "2020-10-31",
+    "hovedstaden": 21,
+    "sjælland": 5,
+    "syddanmark": 6,
+    "midtjylland": 4,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 39
+  },
+  {
+    "dato": "2020-11-01",
+    "hovedstaden": 15,
+    "sjælland": 1,
+    "syddanmark": 12,
+    "midtjylland": 8,
+    "nordjylland": 1,
+    "ukendtregion": 2,
+    "total": 39
+  },
+  {
+    "dato": "2020-11-02",
+    "hovedstaden": 21,
+    "sjælland": 4,
+    "syddanmark": 8,
+    "midtjylland": 4,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 40
+  },
+  {
+    "dato": "2020-11-03",
+    "hovedstaden": 21,
+    "sjælland": 6,
+    "syddanmark": 3,
+    "midtjylland": 4,
+    "nordjylland": 7,
+    "ukendtregion": 0,
+    "total": 41
+  },
+  {
+    "dato": "2020-11-04",
+    "hovedstaden": 22,
+    "sjælland": 11,
+    "syddanmark": 6,
+    "midtjylland": 7,
+    "nordjylland": 6,
+    "ukendtregion": 0,
+    "total": 52
+  },
+  {
+    "dato": "2020-11-05",
+    "hovedstaden": 16,
+    "sjælland": 9,
+    "syddanmark": 12,
+    "midtjylland": 7,
+    "nordjylland": 5,
+    "ukendtregion": 0,
+    "total": 49
+  },
+  {
+    "dato": "2020-11-06",
+    "hovedstaden": 14,
+    "sjælland": 2,
+    "syddanmark": 6,
+    "midtjylland": 8,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 32
+  },
+  {
+    "dato": "2020-11-07",
+    "hovedstaden": 12,
+    "sjælland": 5,
+    "syddanmark": 3,
+    "midtjylland": 4,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 29
+  },
+  {
+    "dato": "2020-11-08",
+    "hovedstaden": 14,
+    "sjælland": 7,
+    "syddanmark": 7,
+    "midtjylland": 6,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 39
+  },
+  {
+    "dato": "2020-11-09",
+    "hovedstaden": 25,
+    "sjælland": 8,
+    "syddanmark": 6,
+    "midtjylland": 11,
+    "nordjylland": 6,
+    "ukendtregion": 0,
+    "total": 56
+  },
+  {
+    "dato": "2020-11-10",
+    "hovedstaden": 15,
+    "sjælland": 6,
+    "syddanmark": 6,
+    "midtjylland": 7,
+    "nordjylland": 2,
+    "ukendtregion": 1,
+    "total": 37
+  },
+  {
+    "dato": "2020-11-11",
+    "hovedstaden": 26,
+    "sjælland": 6,
+    "syddanmark": 3,
+    "midtjylland": 8,
+    "nordjylland": 3,
+    "ukendtregion": 3,
+    "total": 49
+  },
+  {
+    "dato": "2020-11-12",
+    "hovedstaden": 14,
+    "sjælland": 3,
+    "syddanmark": 5,
+    "midtjylland": 10,
+    "nordjylland": 0,
+    "ukendtregion": 2,
+    "total": 34
+  },
+  {
+    "dato": "2020-11-13",
+    "hovedstaden": 18,
+    "sjælland": 5,
+    "syddanmark": 3,
+    "midtjylland": 10,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 39
+  },
+  {
+    "dato": "2020-11-14",
+    "hovedstaden": 16,
+    "sjælland": 7,
+    "syddanmark": 2,
+    "midtjylland": 6,
+    "nordjylland": 2,
+    "ukendtregion": 1,
+    "total": 34
+  },
+  {
+    "dato": "2020-11-15",
+    "hovedstaden": 19,
+    "sjælland": 3,
+    "syddanmark": 2,
+    "midtjylland": 8,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 32
+  },
+  {
+    "dato": "2020-11-16",
+    "hovedstaden": 26,
+    "sjælland": 6,
+    "syddanmark": 3,
+    "midtjylland": 11,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 50
+  },
+  {
+    "dato": "2020-11-17",
+    "hovedstaden": 28,
+    "sjælland": 4,
+    "syddanmark": 11,
+    "midtjylland": 15,
+    "nordjylland": 3,
+    "ukendtregion": 2,
+    "total": 63
+  },
+  {
+    "dato": "2020-11-18",
+    "hovedstaden": 19,
+    "sjælland": 6,
+    "syddanmark": 7,
+    "midtjylland": 11,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 46
+  },
+  {
+    "dato": "2020-11-19",
+    "hovedstaden": 14,
+    "sjælland": 9,
+    "syddanmark": 6,
+    "midtjylland": 10,
+    "nordjylland": 1,
+    "ukendtregion": 2,
+    "total": 42
+  },
+  {
+    "dato": "2020-11-20",
+    "hovedstaden": 16,
+    "sjælland": 4,
+    "syddanmark": 7,
+    "midtjylland": 11,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 42
+  },
+  {
+    "dato": "2020-11-21",
+    "hovedstaden": 13,
+    "sjælland": 5,
+    "syddanmark": 7,
+    "midtjylland": 5,
+    "nordjylland": 0,
+    "ukendtregion": 2,
+    "total": 32
+  },
+  {
+    "dato": "2020-11-22",
+    "hovedstaden": 23,
+    "sjælland": 3,
+    "syddanmark": 5,
+    "midtjylland": 4,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 40
+  },
+  {
+    "dato": "2020-11-23",
+    "hovedstaden": 22,
+    "sjælland": 7,
+    "syddanmark": 8,
+    "midtjylland": 9,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 48
+  },
+  {
+    "dato": "2020-11-24",
+    "hovedstaden": 14,
+    "sjælland": 5,
+    "syddanmark": 5,
+    "midtjylland": 11,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 39
+  },
+  {
+    "dato": "2020-11-25",
+    "hovedstaden": 20,
+    "sjælland": 8,
+    "syddanmark": 4,
+    "midtjylland": 9,
+    "nordjylland": 5,
+    "ukendtregion": 1,
+    "total": 47
+  },
+  {
+    "dato": "2020-11-26",
+    "hovedstaden": 21,
+    "sjælland": 6,
+    "syddanmark": 11,
+    "midtjylland": 4,
+    "nordjylland": 3,
+    "ukendtregion": 3,
+    "total": 48
+  },
+  {
+    "dato": "2020-11-27",
+    "hovedstaden": 16,
+    "sjælland": 3,
+    "syddanmark": 2,
+    "midtjylland": 7,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 30
+  },
+  {
+    "dato": "2020-11-28",
+    "hovedstaden": 9,
+    "sjælland": 5,
+    "syddanmark": 5,
+    "midtjylland": 8,
+    "nordjylland": 3,
+    "ukendtregion": 1,
+    "total": 31
+  },
+  {
+    "dato": "2020-11-29",
+    "hovedstaden": 16,
+    "sjælland": 7,
+    "syddanmark": 4,
+    "midtjylland": 7,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 34
+  },
+  {
+    "dato": "2020-11-30",
+    "hovedstaden": 26,
+    "sjælland": 4,
+    "syddanmark": 9,
+    "midtjylland": 4,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 45
+  },
+  {
+    "dato": "2020-12-01",
+    "hovedstaden": 21,
+    "sjælland": 3,
+    "syddanmark": 7,
+    "midtjylland": 17,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 50
+  },
+  {
+    "dato": "2020-12-02",
+    "hovedstaden": 24,
+    "sjælland": 5,
+    "syddanmark": 7,
+    "midtjylland": 12,
+    "nordjylland": 2,
+    "ukendtregion": 4,
+    "total": 54
+  },
+  {
+    "dato": "2020-12-03",
+    "hovedstaden": 32,
+    "sjælland": 9,
+    "syddanmark": 5,
+    "midtjylland": 8,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 54
+  },
+  {
+    "dato": "2020-12-04",
+    "hovedstaden": 26,
+    "sjælland": 10,
+    "syddanmark": 5,
+    "midtjylland": 13,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 56
+  },
+  {
+    "dato": "2020-12-05",
+    "hovedstaden": 35,
+    "sjælland": 12,
+    "syddanmark": 6,
+    "midtjylland": 11,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 66
+  },
+  {
+    "dato": "2020-12-06",
+    "hovedstaden": 42,
+    "sjælland": 13,
+    "syddanmark": 4,
+    "midtjylland": 10,
+    "nordjylland": 0,
+    "ukendtregion": 0,
+    "total": 69
+  },
+  {
+    "dato": "2020-12-07",
+    "hovedstaden": 57,
+    "sjælland": 12,
+    "syddanmark": 6,
+    "midtjylland": 14,
+    "nordjylland": 1,
+    "ukendtregion": 0,
+    "total": 90
+  },
+  {
+    "dato": "2020-12-08",
+    "hovedstaden": 39,
+    "sjælland": 8,
+    "syddanmark": 4,
+    "midtjylland": 8,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 62
+  },
+  {
+    "dato": "2020-12-09",
+    "hovedstaden": 46,
+    "sjælland": 9,
+    "syddanmark": 6,
+    "midtjylland": 13,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 76
+  },
+  {
+    "dato": "2020-12-10",
+    "hovedstaden": 55,
+    "sjælland": 17,
+    "syddanmark": 12,
+    "midtjylland": 14,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 100
+  },
+  {
+    "dato": "2020-12-11",
+    "hovedstaden": 47,
+    "sjælland": 15,
+    "syddanmark": 6,
+    "midtjylland": 24,
+    "nordjylland": 1,
+    "ukendtregion": 1,
+    "total": 94
+  },
+  {
+    "dato": "2020-12-12",
+    "hovedstaden": 56,
+    "sjælland": 7,
+    "syddanmark": 6,
+    "midtjylland": 10,
+    "nordjylland": 4,
+    "ukendtregion": 2,
+    "total": 85
+  },
+  {
+    "dato": "2020-12-13",
+    "hovedstaden": 57,
+    "sjælland": 19,
+    "syddanmark": 13,
+    "midtjylland": 11,
+    "nordjylland": 3,
+    "ukendtregion": 0,
+    "total": 103
+  },
+  {
+    "dato": "2020-12-14",
+    "hovedstaden": 72,
+    "sjælland": 25,
+    "syddanmark": 10,
+    "midtjylland": 17,
+    "nordjylland": 2,
+    "ukendtregion": 0,
+    "total": 126
+  },
+  {
+    "dato": "2020-12-15",
+    "hovedstaden": 74,
+    "sjælland": 35,
+    "syddanmark": 13,
+    "midtjylland": 20,
+    "nordjylland": 4,
+    "ukendtregion": 0,
+    "total": 146
+  },
+  {
+    "dato": "2020-12-16",
+    "hovedstaden": 92,
+    "sjælland": 19,
+    "syddanmark": 11,
+    "midtjylland": 12,
+    "nordjylland": 6,
+    "ukendtregion": 1,
+    "total": 141
+  },
+  {
+    "dato": "2020-12-17",
+    "hovedstaden": 87,
+    "sjælland": 23,
+    "syddanmark": 8,
+    "midtjylland": 23,
+    "nordjylland": 6,
+    "ukendtregion": 1,
+    "total": 148
+  },
+  {
+    "dato": "2020-12-18",
+    "hovedstaden": 85,
+    "sjælland": 27,
+    "syddanmark": 11,
+    "midtjylland": 16,
+    "nordjylland": 7,
+    "ukendtregion": 2,
+    "total": 148
+  },
+  {
+    "dato": "2020-12-19",
+    "hovedstaden": 92,
+    "sjælland": 18,
+    "syddanmark": 12,
+    "midtjylland": 20,
+    "nordjylland": 10,
+    "ukendtregion": 1,
+    "total": 153
+  },
+  {
+    "dato": "2020-12-20",
+    "hovedstaden": 67,
+    "sjælland": 24,
+    "syddanmark": 11,
+    "midtjylland": 19,
+    "nordjylland": 7,
+    "ukendtregion": 0,
+    "total": 128
+  },
+  {
+    "dato": "2020-12-21",
+    "hovedstaden": 101,
+    "sjælland": 29,
+    "syddanmark": 19,
+    "midtjylland": 21,
+    "nordjylland": 11,
+    "ukendtregion": 2,
+    "total": 183
+  },
+  {
+    "dato": "2020-12-22",
+    "hovedstaden": 76,
+    "sjælland": 32,
+    "syddanmark": 12,
+    "midtjylland": 19,
+    "nordjylland": 8,
+    "ukendtregion": 0,
+    "total": 147
+  },
+  {
+    "dato": "2020-12-23",
+    "hovedstaden": 73,
+    "sjælland": 24,
+    "syddanmark": 15,
+    "midtjylland": 25,
+    "nordjylland": 14,
+    "ukendtregion": 0,
+    "total": 151
+  },
+  {
+    "dato": "2020-12-24",
+    "hovedstaden": 67,
+    "sjælland": 20,
+    "syddanmark": 7,
+    "midtjylland": 21,
+    "nordjylland": 6,
+    "ukendtregion": 1,
+    "total": 122
+  },
+  {
+    "dato": "2020-12-25",
+    "hovedstaden": 98,
+    "sjælland": 25,
+    "syddanmark": 13,
+    "midtjylland": 26,
+    "nordjylland": 4,
+    "ukendtregion": 1,
+    "total": 167
+  },
+  {
+    "dato": "2020-12-26",
+    "hovedstaden": 82,
+    "sjælland": 17,
+    "syddanmark": 14,
+    "midtjylland": 21,
+    "nordjylland": 9,
+    "ukendtregion": 1,
+    "total": 144
+  },
+  {
+    "dato": "2020-12-27",
+    "hovedstaden": 77,
+    "sjælland": 23,
+    "syddanmark": 10,
+    "midtjylland": 17,
+    "nordjylland": 10,
+    "ukendtregion": 0,
+    "total": 137
   }
 ]
