@@ -2914,10 +2914,10 @@
     "hovedstaden": 87,
     "sjælland": 23,
     "syddanmark": 8,
-    "midtjylland": 23,
+    "midtjylland": 22,
     "nordjylland": 6,
     "ukendtregion": 1,
-    "total": 148
+    "total": 147
   },
   {
     "dato": "2020-12-18",
@@ -3013,10 +3013,31 @@
     "dato": "2020-12-27",
     "hovedstaden": 77,
     "sjælland": 23,
-    "syddanmark": 10,
+    "syddanmark": 11,
     "midtjylland": 17,
     "nordjylland": 10,
     "ukendtregion": 0,
-    "total": 137
-  }
+    "total": 138
+  },
+  {
+    "dato": "2020-12-28",
+    "hovedstaden": 87,
+    "sjælland": 38,
+    "syddanmark": 30,
+    "midtjylland": 41,
+    "nordjylland": 8,
+    "ukendtregion": 1,
+    "total": 205
+  },
+  {
+    "dato": "2020-12-29",
+    "hovedstaden": 74,
+    "sjælland": 16,
+    "syddanmark": 10,
+    "midtjylland": 24,
+    "nordjylland": 4,
+    "ukendtregion": 2,
+    "total": 130
+  },
+  null
 ]
