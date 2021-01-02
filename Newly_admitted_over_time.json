@@ -2974,10 +2974,10 @@
     "hovedstaden": 73,
     "sjælland": 24,
     "syddanmark": 15,
-    "midtjylland": 25,
+    "midtjylland": 26,
     "nordjylland": 14,
     "ukendtregion": 0,
-    "total": 151
+    "total": 152
   },
   {
     "dato": "2020-12-24",
@@ -2991,13 +2991,13 @@
   },
   {
     "dato": "2020-12-25",
-    "hovedstaden": 98,
+    "hovedstaden": 99,
     "sjælland": 25,
     "syddanmark": 13,
     "midtjylland": 26,
     "nordjylland": 4,
     "ukendtregion": 1,
-    "total": 167
+    "total": 168
   },
   {
     "dato": "2020-12-26",
@@ -3032,21 +3032,41 @@
   {
     "dato": "2020-12-29",
     "hovedstaden": 78,
-    "sjælland": 19,
-    "syddanmark": 8,
-    "midtjylland": 26,
+    "sjælland": 20,
+    "syddanmark": 10,
+    "midtjylland": 28,
     "nordjylland": 4,
     "ukendtregion": 2,
-    "total": 137
+    "total": 142
   },
   {
     "dato": "2020-12-30",
-    "hovedstaden": 63,
-    "sjælland": 22,
-    "syddanmark": 12,
-    "midtjylland": 14,
-    "nordjylland": 2,
+    "hovedstaden": 70,
+    "sjælland": 24,
+    "syddanmark": 11,
+    "midtjylland": 17,
+    "nordjylland": 4,
     "ukendtregion": 0,
-    "total": 113
+    "total": 126
+  },
+  {
+    "dato": "2020-12-31",
+    "hovedstaden": 60,
+    "sjælland": 19,
+    "syddanmark": 15,
+    "midtjylland": 13,
+    "nordjylland": 11,
+    "ukendtregion": 1,
+    "total": 119
+  },
+  {
+    "dato": "2021-01-01",
+    "hovedstaden": 69,
+    "sjælland": 14,
+    "syddanmark": 13,
+    "midtjylland": 20,
+    "nordjylland": 9,
+    "ukendtregion": 2,
+    "total": 127
   }
 ]
