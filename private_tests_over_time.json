@@ -260,9 +260,23 @@
       "pct": 0
     },
     "antigen": {
-      "tests": 8821,
-      "positive": 309,
-      "pct": 3.5
+      "tests": 9562,
+      "positive": 321,
+      "pct": 3.36
+    }
+  },
+  {
+    "date": "2021-01-02",
+    "testproviders": 12,
+    "pcr": {
+      "tests": 147,
+      "positive": 3,
+      "pct": 2.04
+    },
+    "antigen": {
+      "tests": 18282,
+      "positive": 443,
+      "pct": 2.42
     }
   }
 ]
