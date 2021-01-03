@@ -3076,23 +3076,5 @@
     "prevpos": 3,
     "tested": 46,
     "testedkumulativ": 10
-  },
-  {
-    "date": "I alt",
-    "newpositive": 167,
-    "notprevpos": 10,
-    "pospct": 1,
-    "prevpos": 101,
-    "tested": 10,
-    "testedkumulativ": 10
-  },
-  {
-    "date": "Antal personer",
-    "newpositive": 167,
-    "notprevpos": 3,
-    "pospct": 4,
-    "prevpos": 45,
-    "tested": 3,
-    "testedkumulativ": 3
   }
 ]
