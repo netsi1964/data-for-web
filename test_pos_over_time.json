@@ -375,7 +375,7 @@
     "pospct": 21,
     "prevpos": 1,
     "tested": 229,
-    "testedkumulativ": 1
+    "testedkumulativ": 1162
   },
   {
     "date": "2020-03-09",
@@ -384,7 +384,7 @@
     "pospct": 36,
     "prevpos": 3,
     "tested": 578,
-    "testedkumulativ": 1
+    "testedkumulativ": 1740
   },
   {
     "date": "2020-03-10",
@@ -393,7 +393,7 @@
     "pospct": 31,
     "prevpos": 3,
     "tested": 806,
-    "testedkumulativ": 2
+    "testedkumulativ": 2546
   },
   {
     "date": "2020-03-11",
@@ -402,7 +402,7 @@
     "pospct": 23,
     "prevpos": 5,
     "tested": 883,
-    "testedkumulativ": 3
+    "testedkumulativ": 3429
   },
   {
     "date": "2020-03-12",
@@ -411,7 +411,7 @@
     "pospct": 6,
     "prevpos": 10,
     "tested": 676,
-    "testedkumulativ": 4
+    "testedkumulativ": 4105
   },
   {
     "date": "2020-03-13",
@@ -420,7 +420,7 @@
     "pospct": 4,
     "prevpos": 4,
     "tested": 710,
-    "testedkumulativ": 4
+    "testedkumulativ": 4815
   },
   {
     "date": "2020-03-14",
@@ -429,7 +429,7 @@
     "pospct": 6,
     "prevpos": 4,
     "tested": 583,
-    "testedkumulativ": 5
+    "testedkumulativ": 5398
   },
   {
     "date": "2020-03-15",
@@ -438,16 +438,16 @@
     "pospct": 6,
     "prevpos": 4,
     "tested": 723,
-    "testedkumulativ": 6
+    "testedkumulativ": 6121
   },
   {
     "date": "2020-03-16",
     "newpositive": 74,
-    "notprevpos": 1,
+    "notprevpos": 1010,
     "pospct": 7,
     "prevpos": 6,
-    "tested": 1,
-    "testedkumulativ": 7
+    "tested": 1016,
+    "testedkumulativ": 7137
   },
   {
     "date": "2020-03-17",
@@ -456,34 +456,34 @@
     "pospct": 8,
     "prevpos": 13,
     "tested": 948,
-    "testedkumulativ": 8
+    "testedkumulativ": 8085
   },
   {
     "date": "2020-03-18",
     "newpositive": 83,
-    "notprevpos": 1,
+    "notprevpos": 1216,
     "pospct": 6,
     "prevpos": 10,
-    "tested": 1,
-    "testedkumulativ": 9
+    "tested": 1226,
+    "testedkumulativ": 9311
   },
   {
     "date": "2020-03-19",
     "newpositive": 107,
-    "notprevpos": 1,
+    "notprevpos": 1833,
     "pospct": 5,
     "prevpos": 15,
-    "tested": 1,
-    "testedkumulativ": 11
+    "tested": 1848,
+    "testedkumulativ": 11159
   },
   {
     "date": "2020-03-20",
     "newpositive": 103,
-    "notprevpos": 1,
+    "notprevpos": 1172,
     "pospct": 8,
     "prevpos": 7,
-    "tested": 1,
-    "testedkumulativ": 12
+    "tested": 1179,
+    "testedkumulativ": 12338
   },
   {
     "date": "2020-03-21",
@@ -492,7 +492,7 @@
     "pospct": 8,
     "prevpos": 5,
     "tested": 602,
-    "testedkumulativ": 12
+    "testedkumulativ": 12940
   },
   {
     "date": "2020-03-22",
@@ -501,2572 +501,2572 @@
     "pospct": 11,
     "prevpos": 9,
     "tested": 533,
-    "testedkumulativ": 13
+    "testedkumulativ": 13473
   },
   {
     "date": "2020-03-23",
     "newpositive": 132,
-    "notprevpos": 1,
+    "notprevpos": 1119,
     "pospct": 11,
     "prevpos": 6,
-    "tested": 1,
-    "testedkumulativ": 14
+    "tested": 1125,
+    "testedkumulativ": 14598
   },
   {
     "date": "2020-03-24",
     "newpositive": 139,
-    "notprevpos": 1,
+    "notprevpos": 1118,
     "pospct": 12,
     "prevpos": 5,
-    "tested": 1,
-    "testedkumulativ": 15
+    "tested": 1123,
+    "testedkumulativ": 15721
   },
   {
     "date": "2020-03-25",
     "newpositive": 151,
-    "notprevpos": 1,
+    "notprevpos": 1360,
     "pospct": 11,
     "prevpos": 12,
-    "tested": 1,
-    "testedkumulativ": 17
+    "tested": 1372,
+    "testedkumulativ": 17093
   },
   {
     "date": "2020-03-26",
     "newpositive": 171,
-    "notprevpos": 1,
+    "notprevpos": 1597,
     "pospct": 10,
     "prevpos": 14,
-    "tested": 1,
-    "testedkumulativ": 18
+    "tested": 1611,
+    "testedkumulativ": 18704
   },
   {
     "date": "2020-03-27",
     "newpositive": 217,
-    "notprevpos": 2,
+    "notprevpos": 2096,
     "pospct": 10,
     "prevpos": 14,
-    "tested": 2,
-    "testedkumulativ": 20
+    "tested": 2110,
+    "testedkumulativ": 20814
   },
   {
     "date": "2020-03-28",
     "newpositive": 200,
-    "notprevpos": 1,
+    "notprevpos": 1370,
     "pospct": 14,
     "prevpos": 13,
-    "tested": 1,
-    "testedkumulativ": 22
+    "tested": 1383,
+    "testedkumulativ": 22197
   },
   {
     "date": "2020-03-29",
     "newpositive": 128,
-    "notprevpos": 1,
+    "notprevpos": 1278,
     "pospct": 10,
     "prevpos": 23,
-    "tested": 1,
-    "testedkumulativ": 23
+    "tested": 1301,
+    "testedkumulativ": 23498
   },
   {
     "date": "2020-03-30",
     "newpositive": 313,
-    "notprevpos": 3,
+    "notprevpos": 3191,
     "pospct": 9,
     "prevpos": 27,
-    "tested": 3,
-    "testedkumulativ": 26
+    "tested": 3218,
+    "testedkumulativ": 26716
   },
   {
     "date": "2020-03-31",
     "newpositive": 255,
-    "notprevpos": 3,
+    "notprevpos": 3193,
     "pospct": 8,
     "prevpos": 17,
-    "tested": 3,
-    "testedkumulativ": 29
+    "tested": 3210,
+    "testedkumulativ": 29926
   },
   {
     "date": "2020-04-01",
     "newpositive": 282,
-    "notprevpos": 3,
+    "notprevpos": 3520,
     "pospct": 8,
     "prevpos": 37,
-    "tested": 3,
-    "testedkumulativ": 33
+    "tested": 3557,
+    "testedkumulativ": 33483
   },
   {
     "date": "2020-04-02",
     "newpositive": 382,
-    "notprevpos": 5,
+    "notprevpos": 5724,
     "pospct": 6,
     "prevpos": 28,
-    "tested": 5,
-    "testedkumulativ": 39
+    "tested": 5752,
+    "testedkumulativ": 39235
   },
   {
     "date": "2020-04-03",
     "newpositive": 473,
-    "notprevpos": 6,
+    "notprevpos": 6567,
     "pospct": 7,
     "prevpos": 50,
-    "tested": 6,
-    "testedkumulativ": 45
+    "tested": 6617,
+    "testedkumulativ": 45852
   },
   {
     "date": "2020-04-04",
     "newpositive": 312,
-    "notprevpos": 3,
+    "notprevpos": 3677,
     "pospct": 8,
     "prevpos": 20,
-    "tested": 3,
-    "testedkumulativ": 49
+    "tested": 3697,
+    "testedkumulativ": 49549
   },
   {
     "date": "2020-04-05",
     "newpositive": 158,
-    "notprevpos": 2,
+    "notprevpos": 2194,
     "pospct": 7,
     "prevpos": 19,
-    "tested": 2,
-    "testedkumulativ": 51
+    "tested": 2213,
+    "testedkumulativ": 51762
   },
   {
     "date": "2020-04-06",
     "newpositive": 424,
-    "notprevpos": 6,
+    "notprevpos": 6521,
     "pospct": 6,
     "prevpos": 48,
-    "tested": 6,
-    "testedkumulativ": 58
+    "tested": 6569,
+    "testedkumulativ": 58331
   },
   {
     "date": "2020-04-07",
     "newpositive": 347,
-    "notprevpos": 6,
+    "notprevpos": 6330,
     "pospct": 5,
     "prevpos": 54,
-    "tested": 6,
-    "testedkumulativ": 64
+    "tested": 6384,
+    "testedkumulativ": 64715
   },
   {
     "date": "2020-04-08",
     "newpositive": 301,
-    "notprevpos": 5,
+    "notprevpos": 5577,
     "pospct": 5,
     "prevpos": 55,
-    "tested": 5,
-    "testedkumulativ": 70
+    "tested": 5632,
+    "testedkumulativ": 70347
   },
   {
     "date": "2020-04-09",
     "newpositive": 140,
-    "notprevpos": 2,
+    "notprevpos": 2522,
     "pospct": 5,
     "prevpos": 36,
-    "tested": 2,
-    "testedkumulativ": 72
+    "tested": 2558,
+    "testedkumulativ": 72905
   },
   {
     "date": "2020-04-10",
     "newpositive": 142,
-    "notprevpos": 2,
+    "notprevpos": 2296,
     "pospct": 6,
     "prevpos": 30,
-    "tested": 2,
-    "testedkumulativ": 75
+    "tested": 2326,
+    "testedkumulativ": 75231
   },
   {
     "date": "2020-04-11",
     "newpositive": 140,
-    "notprevpos": 2,
+    "notprevpos": 2183,
     "pospct": 6,
     "prevpos": 46,
-    "tested": 2,
-    "testedkumulativ": 77
+    "tested": 2229,
+    "testedkumulativ": 77460
   },
   {
     "date": "2020-04-12",
     "newpositive": 157,
-    "notprevpos": 2,
+    "notprevpos": 2108,
     "pospct": 7,
     "prevpos": 35,
-    "tested": 2,
-    "testedkumulativ": 79
+    "tested": 2143,
+    "testedkumulativ": 79603
   },
   {
     "date": "2020-04-13",
     "newpositive": 156,
-    "notprevpos": 2,
+    "notprevpos": 2095,
     "pospct": 7,
     "prevpos": 54,
-    "tested": 2,
-    "testedkumulativ": 81
+    "tested": 2149,
+    "testedkumulativ": 81752
   },
   {
     "date": "2020-04-14",
     "newpositive": 258,
-    "notprevpos": 6,
+    "notprevpos": 6112,
     "pospct": 4,
     "prevpos": 107,
-    "tested": 6,
-    "testedkumulativ": 87
+    "tested": 6219,
+    "testedkumulativ": 87971
   },
   {
     "date": "2020-04-15",
     "newpositive": 199,
-    "notprevpos": 5,
+    "notprevpos": 5540,
     "pospct": 3,
     "prevpos": 94,
-    "tested": 5,
-    "testedkumulativ": 93
+    "tested": 5634,
+    "testedkumulativ": 93605
   },
   {
     "date": "2020-04-16",
     "newpositive": 178,
-    "notprevpos": 5,
+    "notprevpos": 5243,
     "pospct": 3,
     "prevpos": 89,
-    "tested": 5,
-    "testedkumulativ": 98
+    "tested": 5332,
+    "testedkumulativ": 98937
   },
   {
     "date": "2020-04-17",
     "newpositive": 168,
-    "notprevpos": 4,
+    "notprevpos": 4712,
     "pospct": 3,
     "prevpos": 91,
-    "tested": 4,
-    "testedkumulativ": 103
+    "tested": 4803,
+    "testedkumulativ": 103740
   },
   {
     "date": "2020-04-18",
     "newpositive": 106,
-    "notprevpos": 2,
+    "notprevpos": 2242,
     "pospct": 4,
     "prevpos": 60,
-    "tested": 2,
-    "testedkumulativ": 106
+    "tested": 2302,
+    "testedkumulativ": 106042
   },
   {
     "date": "2020-04-19",
     "newpositive": 114,
-    "notprevpos": 1,
+    "notprevpos": 1830,
     "pospct": 6,
     "prevpos": 56,
-    "tested": 1,
-    "testedkumulativ": 107
+    "tested": 1886,
+    "testedkumulativ": 107928
   },
   {
     "date": "2020-04-20",
     "newpositive": 215,
-    "notprevpos": 6,
+    "notprevpos": 6555,
     "pospct": 3,
     "prevpos": 115,
-    "tested": 6,
-    "testedkumulativ": 114
+    "tested": 6670,
+    "testedkumulativ": 114598
   },
   {
     "date": "2020-04-21",
     "newpositive": 202,
-    "notprevpos": 9,
+    "notprevpos": 9672,
     "pospct": 2,
     "prevpos": 103,
-    "tested": 9,
-    "testedkumulativ": 124
+    "tested": 9775,
+    "testedkumulativ": 124373
   },
   {
     "date": "2020-04-22",
     "newpositive": 229,
-    "notprevpos": 11,
+    "notprevpos": 11471,
     "pospct": 2,
     "prevpos": 134,
-    "tested": 11,
-    "testedkumulativ": 135
+    "tested": 11605,
+    "testedkumulativ": 135978
   },
   {
     "date": "2020-04-23",
     "newpositive": 232,
-    "notprevpos": 12,
+    "notprevpos": 12338,
     "pospct": 1,
     "prevpos": 148,
-    "tested": 12,
-    "testedkumulativ": 148
+    "tested": 12486,
+    "testedkumulativ": 148464
   },
   {
     "date": "2020-04-24",
     "newpositive": 165,
-    "notprevpos": 14,
+    "notprevpos": 14694,
     "pospct": 1,
     "prevpos": 125,
-    "tested": 14,
-    "testedkumulativ": 163
+    "tested": 14819,
+    "testedkumulativ": 163283
   },
   {
     "date": "2020-04-25",
     "newpositive": 136,
-    "notprevpos": 12,
+    "notprevpos": 12346,
     "pospct": 1,
     "prevpos": 86,
-    "tested": 12,
-    "testedkumulativ": 175
+    "tested": 12432,
+    "testedkumulativ": 175715
   },
   {
     "date": "2020-04-26",
     "newpositive": 122,
-    "notprevpos": 10,
+    "notprevpos": 10236,
     "pospct": 1,
     "prevpos": 91,
-    "tested": 10,
-    "testedkumulativ": 186
+    "tested": 10327,
+    "testedkumulativ": 186042
   },
   {
     "date": "2020-04-27",
     "newpositive": 219,
-    "notprevpos": 17,
+    "notprevpos": 17187,
     "pospct": 1,
     "prevpos": 164,
-    "tested": 17,
-    "testedkumulativ": 203
+    "tested": 17351,
+    "testedkumulativ": 203393
   },
   {
     "date": "2020-04-28",
     "newpositive": 136,
-    "notprevpos": 16,
+    "notprevpos": 16123,
     "pospct": 0,
     "prevpos": 144,
-    "tested": 16,
-    "testedkumulativ": 219
+    "tested": 16267,
+    "testedkumulativ": 219660
   },
   {
     "date": "2020-04-29",
     "newpositive": 140,
-    "notprevpos": 15,
+    "notprevpos": 15923,
     "pospct": 0,
     "prevpos": 154,
-    "tested": 16,
-    "testedkumulativ": 235
+    "tested": 16077,
+    "testedkumulativ": 235737
   },
   {
     "date": "2020-04-30",
     "newpositive": 150,
-    "notprevpos": 15,
+    "notprevpos": 15808,
     "pospct": 0,
     "prevpos": 143,
-    "tested": 15,
-    "testedkumulativ": 251
+    "tested": 15951,
+    "testedkumulativ": 251688
   },
   {
     "date": "2020-05-01",
     "newpositive": 153,
-    "notprevpos": 14,
+    "notprevpos": 14335,
     "pospct": 1,
     "prevpos": 110,
-    "tested": 14,
-    "testedkumulativ": 266
+    "tested": 14445,
+    "testedkumulativ": 266133
   },
   {
     "date": "2020-05-02",
     "newpositive": 117,
-    "notprevpos": 11,
+    "notprevpos": 11067,
     "pospct": 1,
     "prevpos": 79,
-    "tested": 11,
-    "testedkumulativ": 277
+    "tested": 11146,
+    "testedkumulativ": 277279
   },
   {
     "date": "2020-05-03",
     "newpositive": 78,
-    "notprevpos": 8,
+    "notprevpos": 8904,
     "pospct": 0,
     "prevpos": 95,
-    "tested": 8,
-    "testedkumulativ": 286
+    "tested": 8999,
+    "testedkumulativ": 286278
   },
   {
     "date": "2020-05-04",
     "newpositive": 123,
-    "notprevpos": 17,
+    "notprevpos": 17621,
     "pospct": 0,
     "prevpos": 159,
-    "tested": 17,
-    "testedkumulativ": 304
+    "tested": 17780,
+    "testedkumulativ": 304058
   },
   {
     "date": "2020-05-05",
     "newpositive": 123,
-    "notprevpos": 15,
+    "notprevpos": 15639,
     "pospct": 0,
     "prevpos": 156,
-    "tested": 15,
-    "testedkumulativ": 319
+    "tested": 15795,
+    "testedkumulativ": 319853
   },
   {
     "date": "2020-05-06",
     "newpositive": 107,
-    "notprevpos": 14,
+    "notprevpos": 14168,
     "pospct": 0,
     "prevpos": 161,
-    "tested": 14,
-    "testedkumulativ": 334
+    "tested": 14329,
+    "testedkumulativ": 334182
   },
   {
     "date": "2020-05-07",
     "newpositive": 124,
-    "notprevpos": 14,
+    "notprevpos": 14206,
     "pospct": 0,
     "prevpos": 165,
-    "tested": 14,
-    "testedkumulativ": 348
+    "tested": 14371,
+    "testedkumulativ": 348553
   },
   {
     "date": "2020-05-08",
     "newpositive": 69,
-    "notprevpos": 8,
+    "notprevpos": 8267,
     "pospct": 0,
     "prevpos": 106,
-    "tested": 8,
-    "testedkumulativ": 356
+    "tested": 8373,
+    "testedkumulativ": 356926
   },
   {
     "date": "2020-05-09",
     "newpositive": 65,
-    "notprevpos": 8,
+    "notprevpos": 8172,
     "pospct": 0,
     "prevpos": 74,
-    "tested": 8,
-    "testedkumulativ": 365
+    "tested": 8246,
+    "testedkumulativ": 365172
   },
   {
     "date": "2020-05-10",
     "newpositive": 60,
-    "notprevpos": 6,
+    "notprevpos": 6622,
     "pospct": 0,
     "prevpos": 65,
-    "tested": 6,
-    "testedkumulativ": 371
+    "tested": 6687,
+    "testedkumulativ": 371859
   },
   {
     "date": "2020-05-11",
     "newpositive": 79,
-    "notprevpos": 16,
+    "notprevpos": 16276,
     "pospct": 0,
     "prevpos": 172,
-    "tested": 16,
-    "testedkumulativ": 388
+    "tested": 16448,
+    "testedkumulativ": 388307
   },
   {
     "date": "2020-05-12",
     "newpositive": 58,
-    "notprevpos": 14,
+    "notprevpos": 14660,
     "pospct": 0,
     "prevpos": 123,
-    "tested": 14,
-    "testedkumulativ": 403
+    "tested": 14783,
+    "testedkumulativ": 403090
   },
   {
     "date": "2020-05-13",
     "newpositive": 71,
-    "notprevpos": 14,
+    "notprevpos": 14625,
     "pospct": 0,
     "prevpos": 134,
-    "tested": 14,
-    "testedkumulativ": 417
+    "tested": 14759,
+    "testedkumulativ": 417849
   },
   {
     "date": "2020-05-14",
     "newpositive": 64,
-    "notprevpos": 12,
+    "notprevpos": 12901,
     "pospct": 0,
     "prevpos": 94,
-    "tested": 12,
-    "testedkumulativ": 430
+    "tested": 12995,
+    "testedkumulativ": 430844
   },
   {
     "date": "2020-05-15",
     "newpositive": 91,
-    "notprevpos": 12,
+    "notprevpos": 12546,
     "pospct": 0,
     "prevpos": 124,
-    "tested": 12,
-    "testedkumulativ": 443
+    "tested": 12670,
+    "testedkumulativ": 443514
   },
   {
     "date": "2020-05-16",
     "newpositive": 35,
-    "notprevpos": 7,
+    "notprevpos": 7633,
     "pospct": 0,
     "prevpos": 65,
-    "tested": 7,
-    "testedkumulativ": 451
+    "tested": 7698,
+    "testedkumulativ": 451212
   },
   {
     "date": "2020-05-17",
     "newpositive": 50,
-    "notprevpos": 7,
+    "notprevpos": 7017,
     "pospct": 0,
     "prevpos": 53,
-    "tested": 7,
-    "testedkumulativ": 458
+    "tested": 7070,
+    "testedkumulativ": 458282
   },
   {
     "date": "2020-05-18",
     "newpositive": 81,
-    "notprevpos": 15,
+    "notprevpos": 15129,
     "pospct": 0,
     "prevpos": 152,
-    "tested": 15,
-    "testedkumulativ": 473
+    "tested": 15281,
+    "testedkumulativ": 473563
   },
   {
     "date": "2020-05-19",
     "newpositive": 65,
-    "notprevpos": 14,
+    "notprevpos": 14859,
     "pospct": 0,
     "prevpos": 124,
-    "tested": 14,
-    "testedkumulativ": 488
+    "tested": 14983,
+    "testedkumulativ": 488546
   },
   {
     "date": "2020-05-20",
     "newpositive": 72,
-    "notprevpos": 14,
+    "notprevpos": 14318,
     "pospct": 0,
     "prevpos": 143,
-    "tested": 14,
-    "testedkumulativ": 503
+    "tested": 14461,
+    "testedkumulativ": 503007
   },
   {
     "date": "2020-05-21",
     "newpositive": 31,
-    "notprevpos": 8,
+    "notprevpos": 8393,
     "pospct": 0,
     "prevpos": 79,
-    "tested": 8,
-    "testedkumulativ": 511
+    "tested": 8472,
+    "testedkumulativ": 511479
   },
   {
     "date": "2020-05-22",
     "newpositive": 73,
-    "notprevpos": 12,
+    "notprevpos": 12192,
     "pospct": 0,
     "prevpos": 113,
-    "tested": 12,
-    "testedkumulativ": 523
+    "tested": 12305,
+    "testedkumulativ": 523784
   },
   {
     "date": "2020-05-23",
     "newpositive": 36,
-    "notprevpos": 8,
+    "notprevpos": 8718,
     "pospct": 0,
     "prevpos": 64,
-    "tested": 8,
-    "testedkumulativ": 532
+    "tested": 8782,
+    "testedkumulativ": 532566
   },
   {
     "date": "2020-05-24",
     "newpositive": 36,
-    "notprevpos": 8,
+    "notprevpos": 8584,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 8,
-    "testedkumulativ": 541
+    "tested": 8666,
+    "testedkumulativ": 541232
   },
   {
     "date": "2020-05-25",
     "newpositive": 52,
-    "notprevpos": 18,
+    "notprevpos": 18160,
     "pospct": 0,
     "prevpos": 136,
-    "tested": 18,
-    "testedkumulativ": 559
+    "tested": 18296,
+    "testedkumulativ": 559528
   },
   {
     "date": "2020-05-26",
     "newpositive": 63,
-    "notprevpos": 15,
+    "notprevpos": 15877,
     "pospct": 0,
     "prevpos": 101,
-    "tested": 15,
-    "testedkumulativ": 575
+    "tested": 15978,
+    "testedkumulativ": 575506
   },
   {
     "date": "2020-05-27",
     "newpositive": 52,
-    "notprevpos": 14,
+    "notprevpos": 14671,
     "pospct": 0,
     "prevpos": 116,
-    "tested": 14,
-    "testedkumulativ": 590
+    "tested": 14787,
+    "testedkumulativ": 590293
   },
   {
     "date": "2020-05-28",
     "newpositive": 39,
-    "notprevpos": 13,
+    "notprevpos": 13041,
     "pospct": 0,
     "prevpos": 123,
-    "tested": 13,
-    "testedkumulativ": 603
+    "tested": 13164,
+    "testedkumulativ": 603457
   },
   {
     "date": "2020-05-29",
     "newpositive": 46,
-    "notprevpos": 11,
+    "notprevpos": 11660,
     "pospct": 0,
     "prevpos": 121,
-    "tested": 11,
-    "testedkumulativ": 615
+    "tested": 11781,
+    "testedkumulativ": 615238
   },
   {
     "date": "2020-05-30",
     "newpositive": 33,
-    "notprevpos": 7,
+    "notprevpos": 7109,
     "pospct": 0,
     "prevpos": 69,
-    "tested": 7,
-    "testedkumulativ": 622
+    "tested": 7178,
+    "testedkumulativ": 622416
   },
   {
     "date": "2020-05-31",
     "newpositive": 22,
-    "notprevpos": 7,
+    "notprevpos": 7554,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 7,
-    "testedkumulativ": 630
+    "tested": 7636,
+    "testedkumulativ": 630052
   },
   {
     "date": "2020-06-01",
     "newpositive": 36,
-    "notprevpos": 8,
+    "notprevpos": 8641,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 8,
-    "testedkumulativ": 638
+    "tested": 8723,
+    "testedkumulativ": 638775
   },
   {
     "date": "2020-06-02",
     "newpositive": 56,
-    "notprevpos": 15,
+    "notprevpos": 15408,
     "pospct": 0,
     "prevpos": 127,
-    "tested": 15,
-    "testedkumulativ": 654
+    "tested": 15535,
+    "testedkumulativ": 654310
   },
   {
     "date": "2020-06-03",
     "newpositive": 54,
-    "notprevpos": 13,
+    "notprevpos": 13336,
     "pospct": 0,
     "prevpos": 123,
-    "tested": 13,
-    "testedkumulativ": 667
+    "tested": 13459,
+    "testedkumulativ": 667769
   },
   {
     "date": "2020-06-04",
     "newpositive": 42,
-    "notprevpos": 11,
+    "notprevpos": 11764,
     "pospct": 0,
     "prevpos": 102,
-    "tested": 11,
-    "testedkumulativ": 679
+    "tested": 11866,
+    "testedkumulativ": 679635
   },
   {
     "date": "2020-06-05",
     "newpositive": 35,
-    "notprevpos": 9,
+    "notprevpos": 9563,
     "pospct": 0,
     "prevpos": 93,
-    "tested": 9,
-    "testedkumulativ": 689
+    "tested": 9656,
+    "testedkumulativ": 689291
   },
   {
     "date": "2020-06-06",
     "newpositive": 15,
-    "notprevpos": 7,
+    "notprevpos": 7890,
     "pospct": 0,
     "prevpos": 81,
-    "tested": 7,
-    "testedkumulativ": 697
+    "tested": 7971,
+    "testedkumulativ": 697262
   },
   {
     "date": "2020-06-07",
     "newpositive": 14,
-    "notprevpos": 7,
+    "notprevpos": 7688,
     "pospct": 0,
     "prevpos": 57,
-    "tested": 7,
-    "testedkumulativ": 705
+    "tested": 7745,
+    "testedkumulativ": 705007
   },
   {
     "date": "2020-06-08",
     "newpositive": 46,
-    "notprevpos": 16,
+    "notprevpos": 16745,
     "pospct": 0,
     "prevpos": 114,
-    "tested": 16,
-    "testedkumulativ": 721
+    "tested": 16859,
+    "testedkumulativ": 721866
   },
   {
     "date": "2020-06-09",
     "newpositive": 28,
-    "notprevpos": 15,
+    "notprevpos": 15570,
     "pospct": 0,
     "prevpos": 79,
-    "tested": 15,
-    "testedkumulativ": 737
+    "tested": 15649,
+    "testedkumulativ": 737515
   },
   {
     "date": "2020-06-10",
     "newpositive": 40,
-    "notprevpos": 14,
+    "notprevpos": 14871,
     "pospct": 0,
     "prevpos": 89,
-    "tested": 14,
-    "testedkumulativ": 752
+    "tested": 14960,
+    "testedkumulativ": 752475
   },
   {
     "date": "2020-06-11",
     "newpositive": 48,
-    "notprevpos": 14,
+    "notprevpos": 14476,
     "pospct": 0,
     "prevpos": 72,
-    "tested": 14,
-    "testedkumulativ": 767
+    "tested": 14548,
+    "testedkumulativ": 767023
   },
   {
     "date": "2020-06-12",
     "newpositive": 60,
-    "notprevpos": 14,
+    "notprevpos": 14779,
     "pospct": 0,
     "prevpos": 91,
-    "tested": 14,
-    "testedkumulativ": 781
+    "tested": 14870,
+    "testedkumulativ": 781893
   },
   {
     "date": "2020-06-13",
     "newpositive": 27,
-    "notprevpos": 9,
+    "notprevpos": 9962,
     "pospct": 0,
     "prevpos": 47,
-    "tested": 10,
-    "testedkumulativ": 791
+    "tested": 10009,
+    "testedkumulativ": 791902
   },
   {
     "date": "2020-06-14",
     "newpositive": 22,
-    "notprevpos": 8,
+    "notprevpos": 8998,
     "pospct": 0,
     "prevpos": 62,
-    "tested": 9,
-    "testedkumulativ": 800
+    "tested": 9060,
+    "testedkumulativ": 800962
   },
   {
     "date": "2020-06-15",
     "newpositive": 40,
-    "notprevpos": 17,
+    "notprevpos": 17607,
     "pospct": 0,
     "prevpos": 107,
-    "tested": 17,
-    "testedkumulativ": 818
+    "tested": 17714,
+    "testedkumulativ": 818676
   },
   {
     "date": "2020-06-16",
     "newpositive": 46,
-    "notprevpos": 18,
+    "notprevpos": 18110,
     "pospct": 0,
     "prevpos": 91,
-    "tested": 18,
-    "testedkumulativ": 836
+    "tested": 18201,
+    "testedkumulativ": 836877
   },
   {
     "date": "2020-06-17",
     "newpositive": 76,
-    "notprevpos": 19,
+    "notprevpos": 19136,
     "pospct": 0,
     "prevpos": 89,
-    "tested": 19,
-    "testedkumulativ": 856
+    "tested": 19225,
+    "testedkumulativ": 856102
   },
   {
     "date": "2020-06-18",
     "newpositive": 46,
-    "notprevpos": 17,
+    "notprevpos": 17439,
     "pospct": 0,
     "prevpos": 76,
-    "tested": 17,
-    "testedkumulativ": 873
+    "tested": 17515,
+    "testedkumulativ": 873617
   },
   {
     "date": "2020-06-19",
     "newpositive": 44,
-    "notprevpos": 16,
+    "notprevpos": 16906,
     "pospct": 0,
     "prevpos": 85,
-    "tested": 16,
-    "testedkumulativ": 890
+    "tested": 16991,
+    "testedkumulativ": 890608
   },
   {
     "date": "2020-06-20",
     "newpositive": 38,
-    "notprevpos": 12,
+    "notprevpos": 12044,
     "pospct": 0,
     "prevpos": 54,
-    "tested": 12,
-    "testedkumulativ": 902
+    "tested": 12098,
+    "testedkumulativ": 902706
   },
   {
     "date": "2020-06-21",
     "newpositive": 33,
-    "notprevpos": 11,
+    "notprevpos": 11338,
     "pospct": 0,
     "prevpos": 78,
-    "tested": 11,
-    "testedkumulativ": 914
+    "tested": 11416,
+    "testedkumulativ": 914122
   },
   {
     "date": "2020-06-22",
     "newpositive": 46,
-    "notprevpos": 21,
+    "notprevpos": 21339,
     "pospct": 0,
     "prevpos": 118,
-    "tested": 21,
-    "testedkumulativ": 935
+    "tested": 21457,
+    "testedkumulativ": 935579
   },
   {
     "date": "2020-06-23",
     "newpositive": 19,
-    "notprevpos": 20,
+    "notprevpos": 20812,
     "pospct": 0,
     "prevpos": 101,
-    "tested": 20,
-    "testedkumulativ": 956
+    "tested": 20913,
+    "testedkumulativ": 956492
   },
   {
     "date": "2020-06-24",
     "newpositive": 45,
-    "notprevpos": 19,
+    "notprevpos": 19997,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 20,
-    "testedkumulativ": 976
+    "tested": 20079,
+    "testedkumulativ": 976571
   },
   {
     "date": "2020-06-25",
     "newpositive": 32,
-    "notprevpos": 16,
+    "notprevpos": 16748,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 16,
-    "testedkumulativ": 993
+    "tested": 16830,
+    "testedkumulativ": 993401
   },
   {
     "date": "2020-06-26",
     "newpositive": 23,
-    "notprevpos": 15,
+    "notprevpos": 15754,
     "pospct": 0,
     "prevpos": 84,
-    "tested": 15,
-    "testedkumulativ": 1
+    "tested": 15838,
+    "testedkumulativ": 1009
   },
   {
     "date": "2020-06-27",
     "newpositive": 19,
-    "notprevpos": 9,
+    "notprevpos": 9431,
     "pospct": 0,
     "prevpos": 52,
-    "tested": 9,
-    "testedkumulativ": 1
+    "tested": 9483,
+    "testedkumulativ": 1018
   },
   {
     "date": "2020-06-28",
     "newpositive": 11,
-    "notprevpos": 9,
+    "notprevpos": 9415,
     "pospct": 0,
     "prevpos": 46,
-    "tested": 9,
-    "testedkumulativ": 1
+    "tested": 9461,
+    "testedkumulativ": 1028
   },
   {
     "date": "2020-06-29",
     "newpositive": 30,
-    "notprevpos": 18,
+    "notprevpos": 18631,
     "pospct": 0,
     "prevpos": 87,
-    "tested": 18,
-    "testedkumulativ": 1
+    "tested": 18718,
+    "testedkumulativ": 1046
   },
   {
     "date": "2020-06-30",
     "newpositive": 24,
-    "notprevpos": 17,
+    "notprevpos": 17810,
     "pospct": 0,
     "prevpos": 74,
-    "tested": 17,
-    "testedkumulativ": 1
+    "tested": 17884,
+    "testedkumulativ": 1064
   },
   {
     "date": "2020-07-01",
     "newpositive": 12,
-    "notprevpos": 17,
+    "notprevpos": 17516,
     "pospct": 0,
     "prevpos": 99,
-    "tested": 17,
-    "testedkumulativ": 1
+    "tested": 17615,
+    "testedkumulativ": 1082
   },
   {
     "date": "2020-07-02",
     "newpositive": 15,
-    "notprevpos": 15,
+    "notprevpos": 15294,
     "pospct": 0,
     "prevpos": 67,
-    "tested": 15,
-    "testedkumulativ": 1
+    "tested": 15361,
+    "testedkumulativ": 1097
   },
   {
     "date": "2020-07-03",
     "newpositive": 19,
-    "notprevpos": 14,
+    "notprevpos": 14254,
     "pospct": 0,
     "prevpos": 67,
-    "tested": 14,
-    "testedkumulativ": 1
+    "tested": 14321,
+    "testedkumulativ": 1112
   },
   {
     "date": "2020-07-04",
     "newpositive": 13,
-    "notprevpos": 9,
+    "notprevpos": 9574,
     "pospct": 0,
     "prevpos": 50,
-    "tested": 9,
-    "testedkumulativ": 1
+    "tested": 9624,
+    "testedkumulativ": 1121
   },
   {
     "date": "2020-07-05",
     "newpositive": 11,
-    "notprevpos": 9,
+    "notprevpos": 9700,
     "pospct": 0,
     "prevpos": 37,
-    "tested": 9,
-    "testedkumulativ": 1
+    "tested": 9737,
+    "testedkumulativ": 1131
   },
   {
     "date": "2020-07-06",
     "newpositive": 9,
-    "notprevpos": 17,
+    "notprevpos": 17759,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 17,
-    "testedkumulativ": 1
+    "tested": 17841,
+    "testedkumulativ": 1149
   },
   {
     "date": "2020-07-07",
     "newpositive": 13,
-    "notprevpos": 16,
+    "notprevpos": 16443,
     "pospct": 0,
     "prevpos": 70,
-    "tested": 16,
-    "testedkumulativ": 1
+    "tested": 16513,
+    "testedkumulativ": 1165
   },
   {
     "date": "2020-07-08",
     "newpositive": 26,
-    "notprevpos": 15,
+    "notprevpos": 15798,
     "pospct": 0,
     "prevpos": 105,
-    "tested": 15,
-    "testedkumulativ": 1
+    "tested": 15903,
+    "testedkumulativ": 1181
   },
   {
     "date": "2020-07-09",
     "newpositive": 41,
-    "notprevpos": 14,
+    "notprevpos": 14248,
     "pospct": 0,
     "prevpos": 55,
-    "tested": 14,
-    "testedkumulativ": 1
+    "tested": 14303,
+    "testedkumulativ": 1196
   },
   {
     "date": "2020-07-10",
     "newpositive": 34,
-    "notprevpos": 14,
+    "notprevpos": 14124,
     "pospct": 0,
     "prevpos": 62,
-    "tested": 14,
-    "testedkumulativ": 1
+    "tested": 14186,
+    "testedkumulativ": 1210
   },
   {
     "date": "2020-07-11",
     "newpositive": 24,
-    "notprevpos": 9,
+    "notprevpos": 9599,
     "pospct": 0,
     "prevpos": 52,
-    "tested": 9,
-    "testedkumulativ": 1
+    "tested": 9651,
+    "testedkumulativ": 1219
   },
   {
     "date": "2020-07-12",
     "newpositive": 22,
-    "notprevpos": 9,
+    "notprevpos": 9095,
     "pospct": 0,
     "prevpos": 38,
-    "tested": 9,
-    "testedkumulativ": 1
+    "tested": 9133,
+    "testedkumulativ": 1228
   },
   {
     "date": "2020-07-13",
     "newpositive": 33,
-    "notprevpos": 18,
+    "notprevpos": 18199,
     "pospct": 0,
     "prevpos": 81,
-    "tested": 18,
-    "testedkumulativ": 1
+    "tested": 18280,
+    "testedkumulativ": 1247
   },
   {
     "date": "2020-07-14",
     "newpositive": 34,
-    "notprevpos": 16,
+    "notprevpos": 16663,
     "pospct": 0,
     "prevpos": 54,
-    "tested": 16,
-    "testedkumulativ": 1
+    "tested": 16717,
+    "testedkumulativ": 1263
   },
   {
     "date": "2020-07-15",
     "newpositive": 42,
-    "notprevpos": 16,
+    "notprevpos": 16261,
     "pospct": 0,
     "prevpos": 84,
-    "tested": 16,
-    "testedkumulativ": 1
+    "tested": 16345,
+    "testedkumulativ": 1280
   },
   {
     "date": "2020-07-16",
     "newpositive": 52,
-    "notprevpos": 15,
+    "notprevpos": 15099,
     "pospct": 0,
     "prevpos": 83,
-    "tested": 15,
-    "testedkumulativ": 1
+    "tested": 15182,
+    "testedkumulativ": 1295
   },
   {
     "date": "2020-07-17",
     "newpositive": 32,
-    "notprevpos": 14,
+    "notprevpos": 14215,
     "pospct": 0,
     "prevpos": 56,
-    "tested": 14,
-    "testedkumulativ": 1
+    "tested": 14271,
+    "testedkumulativ": 1309
   },
   {
     "date": "2020-07-18",
     "newpositive": 43,
-    "notprevpos": 10,
+    "notprevpos": 10628,
     "pospct": 0,
     "prevpos": 41,
-    "tested": 10,
-    "testedkumulativ": 1
+    "tested": 10669,
+    "testedkumulativ": 1320
   },
   {
     "date": "2020-07-19",
     "newpositive": 28,
-    "notprevpos": 10,
+    "notprevpos": 10888,
     "pospct": 0,
     "prevpos": 48,
-    "tested": 10,
-    "testedkumulativ": 1
+    "tested": 10936,
+    "testedkumulativ": 1331
   },
   {
     "date": "2020-07-20",
     "newpositive": 32,
-    "notprevpos": 18,
+    "notprevpos": 18139,
     "pospct": 0,
     "prevpos": 72,
-    "tested": 18,
-    "testedkumulativ": 1
+    "tested": 18211,
+    "testedkumulativ": 1349
   },
   {
     "date": "2020-07-21",
     "newpositive": 37,
-    "notprevpos": 16,
+    "notprevpos": 16609,
     "pospct": 0,
     "prevpos": 83,
-    "tested": 16,
-    "testedkumulativ": 1
+    "tested": 16692,
+    "testedkumulativ": 1366
   },
   {
     "date": "2020-07-22",
     "newpositive": 35,
-    "notprevpos": 16,
+    "notprevpos": 16555,
     "pospct": 0,
     "prevpos": 82,
-    "tested": 16,
-    "testedkumulativ": 1
+    "tested": 16637,
+    "testedkumulativ": 1382
   },
   {
     "date": "2020-07-23",
     "newpositive": 54,
-    "notprevpos": 15,
+    "notprevpos": 15723,
     "pospct": 0,
     "prevpos": 70,
-    "tested": 15,
-    "testedkumulativ": 1
+    "tested": 15793,
+    "testedkumulativ": 1398
   },
   {
     "date": "2020-07-24",
     "newpositive": 37,
-    "notprevpos": 16,
+    "notprevpos": 16028,
     "pospct": 0,
     "prevpos": 80,
-    "tested": 16,
-    "testedkumulativ": 1
+    "tested": 16108,
+    "testedkumulativ": 1414
   },
   {
     "date": "2020-07-25",
     "newpositive": 27,
-    "notprevpos": 11,
+    "notprevpos": 11679,
     "pospct": 0,
     "prevpos": 52,
-    "tested": 11,
-    "testedkumulativ": 1
+    "tested": 11731,
+    "testedkumulativ": 1426
   },
   {
     "date": "2020-07-26",
     "newpositive": 24,
-    "notprevpos": 12,
+    "notprevpos": 12769,
     "pospct": 0,
     "prevpos": 44,
-    "tested": 12,
-    "testedkumulativ": 1
+    "tested": 12813,
+    "testedkumulativ": 1439
   },
   {
     "date": "2020-07-27",
     "newpositive": 64,
-    "notprevpos": 20,
+    "notprevpos": 20636,
     "pospct": 0,
     "prevpos": 84,
-    "tested": 20,
-    "testedkumulativ": 1
+    "tested": 20720,
+    "testedkumulativ": 1460
   },
   {
     "date": "2020-07-28",
     "newpositive": 78,
-    "notprevpos": 20,
+    "notprevpos": 20295,
     "pospct": 0,
     "prevpos": 81,
-    "tested": 20,
-    "testedkumulativ": 1
+    "tested": 20376,
+    "testedkumulativ": 1480
   },
   {
     "date": "2020-07-29",
     "newpositive": 65,
-    "notprevpos": 20,
+    "notprevpos": 20106,
     "pospct": 0,
     "prevpos": 113,
-    "tested": 20,
-    "testedkumulativ": 1
+    "tested": 20219,
+    "testedkumulativ": 1500
   },
   {
     "date": "2020-07-30",
     "newpositive": 84,
-    "notprevpos": 20,
+    "notprevpos": 20448,
     "pospct": 0,
     "prevpos": 99,
-    "tested": 20,
-    "testedkumulativ": 1
+    "tested": 20547,
+    "testedkumulativ": 1521
   },
   {
     "date": "2020-07-31",
     "newpositive": 58,
-    "notprevpos": 19,
+    "notprevpos": 19825,
     "pospct": 0,
     "prevpos": 92,
-    "tested": 19,
-    "testedkumulativ": 1
+    "tested": 19917,
+    "testedkumulativ": 1541
   },
   {
     "date": "2020-08-01",
     "newpositive": 64,
-    "notprevpos": 14,
+    "notprevpos": 14266,
     "pospct": 0,
     "prevpos": 39,
-    "tested": 14,
-    "testedkumulativ": 1
+    "tested": 14305,
+    "testedkumulativ": 1555
   },
   {
     "date": "2020-08-02",
     "newpositive": 78,
-    "notprevpos": 15,
+    "notprevpos": 15653,
     "pospct": 0,
     "prevpos": 61,
-    "tested": 15,
-    "testedkumulativ": 1
+    "tested": 15714,
+    "testedkumulativ": 1571
   },
   {
     "date": "2020-08-03",
     "newpositive": 117,
-    "notprevpos": 23,
+    "notprevpos": 23748,
     "pospct": 0,
     "prevpos": 96,
-    "tested": 23,
-    "testedkumulativ": 1
+    "tested": 23844,
+    "testedkumulativ": 1595
   },
   {
     "date": "2020-08-04",
     "newpositive": 122,
-    "notprevpos": 24,
+    "notprevpos": 24835,
     "pospct": 0,
     "prevpos": 105,
-    "tested": 24,
-    "testedkumulativ": 1
+    "tested": 24940,
+    "testedkumulativ": 1619
   },
   {
     "date": "2020-08-05",
     "newpositive": 118,
-    "notprevpos": 24,
+    "notprevpos": 24733,
     "pospct": 0,
     "prevpos": 145,
-    "tested": 24,
-    "testedkumulativ": 1
+    "tested": 24878,
+    "testedkumulativ": 1644
   },
   {
     "date": "2020-08-06",
     "newpositive": 174,
-    "notprevpos": 26,
+    "notprevpos": 26718,
     "pospct": 0,
     "prevpos": 137,
-    "tested": 26,
-    "testedkumulativ": 1
+    "tested": 26855,
+    "testedkumulativ": 1671
   },
   {
     "date": "2020-08-07",
     "newpositive": 143,
-    "notprevpos": 26,
+    "notprevpos": 26958,
     "pospct": 0,
     "prevpos": 116,
-    "tested": 27,
-    "testedkumulativ": 1
+    "tested": 27074,
+    "testedkumulativ": 1698
   },
   {
     "date": "2020-08-08",
     "newpositive": 90,
-    "notprevpos": 20,
+    "notprevpos": 20696,
     "pospct": 0,
     "prevpos": 93,
-    "tested": 20,
-    "testedkumulativ": 1
+    "tested": 20789,
+    "testedkumulativ": 1719
   },
   {
     "date": "2020-08-09",
     "newpositive": 130,
-    "notprevpos": 20,
+    "notprevpos": 20851,
     "pospct": 0,
     "prevpos": 88,
-    "tested": 20,
-    "testedkumulativ": 1
+    "tested": 20939,
+    "testedkumulativ": 1740
   },
   {
     "date": "2020-08-10",
     "newpositive": 155,
-    "notprevpos": 30,
+    "notprevpos": 30811,
     "pospct": 0,
     "prevpos": 137,
-    "tested": 30,
-    "testedkumulativ": 1
+    "tested": 30948,
+    "testedkumulativ": 1771
   },
   {
     "date": "2020-08-11",
     "newpositive": 136,
-    "notprevpos": 33,
+    "notprevpos": 33398,
     "pospct": 0,
     "prevpos": 126,
-    "tested": 33,
-    "testedkumulativ": 1
+    "tested": 33524,
+    "testedkumulativ": 1804
   },
   {
     "date": "2020-08-12",
     "newpositive": 161,
-    "notprevpos": 34,
+    "notprevpos": 34592,
     "pospct": 0,
     "prevpos": 135,
-    "tested": 34,
-    "testedkumulativ": 1
+    "tested": 34727,
+    "testedkumulativ": 1839
   },
   {
     "date": "2020-08-13",
     "newpositive": 116,
-    "notprevpos": 33,
+    "notprevpos": 33640,
     "pospct": 0,
     "prevpos": 135,
-    "tested": 33,
-    "testedkumulativ": 1
+    "tested": 33775,
+    "testedkumulativ": 1873
   },
   {
     "date": "2020-08-14",
     "newpositive": 112,
-    "notprevpos": 32,
+    "notprevpos": 32400,
     "pospct": 0,
     "prevpos": 164,
-    "tested": 32,
-    "testedkumulativ": 1
+    "tested": 32564,
+    "testedkumulativ": 1906
   },
   {
     "date": "2020-08-15",
     "newpositive": 127,
-    "notprevpos": 25,
+    "notprevpos": 25124,
     "pospct": 0,
     "prevpos": 116,
-    "tested": 25,
-    "testedkumulativ": 1
+    "tested": 25240,
+    "testedkumulativ": 1931
   },
   {
     "date": "2020-08-16",
     "newpositive": 90,
-    "notprevpos": 25,
+    "notprevpos": 25496,
     "pospct": 0,
     "prevpos": 108,
-    "tested": 25,
-    "testedkumulativ": 1
+    "tested": 25604,
+    "testedkumulativ": 1956
   },
   {
     "date": "2020-08-17",
     "newpositive": 96,
-    "notprevpos": 35,
+    "notprevpos": 35427,
     "pospct": 0,
     "prevpos": 163,
-    "tested": 35,
-    "testedkumulativ": 1
+    "tested": 35590,
+    "testedkumulativ": 1992
   },
   {
     "date": "2020-08-18",
     "newpositive": 114,
-    "notprevpos": 37,
+    "notprevpos": 37765,
     "pospct": 0,
     "prevpos": 120,
-    "tested": 37,
-    "testedkumulativ": 2
+    "tested": 37885,
+    "testedkumulativ": 2030
   },
   {
     "date": "2020-08-19",
     "newpositive": 87,
-    "notprevpos": 38,
+    "notprevpos": 38912,
     "pospct": 0,
     "prevpos": 152,
-    "tested": 39,
-    "testedkumulativ": 2
+    "tested": 39064,
+    "testedkumulativ": 2069
   },
   {
     "date": "2020-08-20",
     "newpositive": 87,
-    "notprevpos": 37,
+    "notprevpos": 37848,
     "pospct": 0,
     "prevpos": 165,
-    "tested": 38,
-    "testedkumulativ": 2
+    "tested": 38013,
+    "testedkumulativ": 2107
   },
   {
     "date": "2020-08-21",
     "newpositive": 87,
-    "notprevpos": 35,
+    "notprevpos": 35549,
     "pospct": 0,
     "prevpos": 155,
-    "tested": 35,
-    "testedkumulativ": 2
+    "tested": 35704,
+    "testedkumulativ": 2143
   },
   {
     "date": "2020-08-22",
     "newpositive": 89,
-    "notprevpos": 28,
+    "notprevpos": 28465,
     "pospct": 0,
     "prevpos": 170,
-    "tested": 28,
-    "testedkumulativ": 2
+    "tested": 28635,
+    "testedkumulativ": 2171
   },
   {
     "date": "2020-08-23",
     "newpositive": 75,
-    "notprevpos": 27,
+    "notprevpos": 27419,
     "pospct": 0,
     "prevpos": 142,
-    "tested": 27,
-    "testedkumulativ": 2
+    "tested": 27561,
+    "testedkumulativ": 2199
   },
   {
     "date": "2020-08-24",
     "newpositive": 75,
-    "notprevpos": 39,
+    "notprevpos": 39151,
     "pospct": 0,
     "prevpos": 210,
-    "tested": 39,
-    "testedkumulativ": 2
+    "tested": 39361,
+    "testedkumulativ": 2238
   },
   {
     "date": "2020-08-25",
     "newpositive": 81,
-    "notprevpos": 39,
+    "notprevpos": 39546,
     "pospct": 0,
     "prevpos": 204,
-    "tested": 39,
-    "testedkumulativ": 2
+    "tested": 39750,
+    "testedkumulativ": 2278
   },
   {
     "date": "2020-08-26",
     "newpositive": 80,
-    "notprevpos": 39,
+    "notprevpos": 39886,
     "pospct": 0,
     "prevpos": 179,
-    "tested": 40,
-    "testedkumulativ": 2
+    "tested": 40065,
+    "testedkumulativ": 2318
   },
   {
     "date": "2020-08-27",
     "newpositive": 71,
-    "notprevpos": 38,
+    "notprevpos": 38447,
     "pospct": 0,
     "prevpos": 232,
-    "tested": 38,
-    "testedkumulativ": 2
+    "tested": 38679,
+    "testedkumulativ": 2357
   },
   {
     "date": "2020-08-28",
     "newpositive": 109,
-    "notprevpos": 35,
+    "notprevpos": 35265,
     "pospct": 0,
     "prevpos": 176,
-    "tested": 35,
-    "testedkumulativ": 2
+    "tested": 35441,
+    "testedkumulativ": 2392
   },
   {
     "date": "2020-08-29",
     "newpositive": 89,
-    "notprevpos": 25,
+    "notprevpos": 25063,
     "pospct": 0,
     "prevpos": 124,
-    "tested": 25,
-    "testedkumulativ": 2
+    "tested": 25187,
+    "testedkumulativ": 2417
   },
   {
     "date": "2020-08-30",
     "newpositive": 104,
-    "notprevpos": 25,
+    "notprevpos": 25147,
     "pospct": 0,
     "prevpos": 97,
-    "tested": 25,
-    "testedkumulativ": 2
+    "tested": 25244,
+    "testedkumulativ": 2443
   },
   {
     "date": "2020-08-31",
     "newpositive": 121,
-    "notprevpos": 39,
+    "notprevpos": 39429,
     "pospct": 0,
     "prevpos": 198,
-    "tested": 39,
-    "testedkumulativ": 2
+    "tested": 39627,
+    "testedkumulativ": 2482
   },
   {
     "date": "2020-09-01",
     "newpositive": 201,
-    "notprevpos": 39,
+    "notprevpos": 39040,
     "pospct": 0,
     "prevpos": 174,
-    "tested": 39,
-    "testedkumulativ": 2
+    "tested": 39214,
+    "testedkumulativ": 2521
   },
   {
     "date": "2020-09-02",
     "newpositive": 159,
-    "notprevpos": 39,
+    "notprevpos": 39836,
     "pospct": 0,
     "prevpos": 186,
-    "tested": 40,
-    "testedkumulativ": 2
+    "tested": 40022,
+    "testedkumulativ": 2561
   },
   {
     "date": "2020-09-03",
     "newpositive": 194,
-    "notprevpos": 38,
+    "notprevpos": 38620,
     "pospct": 0,
     "prevpos": 189,
-    "tested": 38,
-    "testedkumulativ": 2
+    "tested": 38809,
+    "testedkumulativ": 2600
   },
   {
     "date": "2020-09-04",
     "newpositive": 205,
-    "notprevpos": 39,
+    "notprevpos": 39931,
     "pospct": 0,
     "prevpos": 208,
-    "tested": 40,
-    "testedkumulativ": 2
+    "tested": 40139,
+    "testedkumulativ": 2640
   },
   {
     "date": "2020-09-05",
     "newpositive": 198,
-    "notprevpos": 28,
+    "notprevpos": 28397,
     "pospct": 0,
     "prevpos": 163,
-    "tested": 28,
-    "testedkumulativ": 2
+    "tested": 28560,
+    "testedkumulativ": 2669
   },
   {
     "date": "2020-09-06",
     "newpositive": 224,
-    "notprevpos": 29,
+    "notprevpos": 29594,
     "pospct": 0,
     "prevpos": 188,
-    "tested": 29,
-    "testedkumulativ": 2
+    "tested": 29782,
+    "testedkumulativ": 2699
   },
   {
     "date": "2020-09-07",
     "newpositive": 297,
-    "notprevpos": 47,
+    "notprevpos": 47557,
     "pospct": 0,
     "prevpos": 253,
-    "tested": 47,
-    "testedkumulativ": 2
+    "tested": 47810,
+    "testedkumulativ": 2746
   },
   {
     "date": "2020-09-08",
     "newpositive": 329,
-    "notprevpos": 48,
+    "notprevpos": 48099,
     "pospct": 0,
     "prevpos": 229,
-    "tested": 48,
-    "testedkumulativ": 2
+    "tested": 48328,
+    "testedkumulativ": 2795
   },
   {
     "date": "2020-09-09",
     "newpositive": 293,
-    "notprevpos": 48,
+    "notprevpos": 48599,
     "pospct": 0,
     "prevpos": 224,
-    "tested": 48,
-    "testedkumulativ": 2
+    "tested": 48823,
+    "testedkumulativ": 2844
   },
   {
     "date": "2020-09-10",
     "newpositive": 371,
-    "notprevpos": 51,
+    "notprevpos": 51843,
     "pospct": 0,
     "prevpos": 310,
-    "tested": 52,
-    "testedkumulativ": 2
+    "tested": 52153,
+    "testedkumulativ": 2896
   },
   {
     "date": "2020-09-11",
     "newpositive": 348,
-    "notprevpos": 50,
+    "notprevpos": 50303,
     "pospct": 0,
     "prevpos": 270,
-    "tested": 50,
-    "testedkumulativ": 2
+    "tested": 50573,
+    "testedkumulativ": 2946
   },
   {
     "date": "2020-09-12",
     "newpositive": 302,
-    "notprevpos": 41,
+    "notprevpos": 41155,
     "pospct": 0,
     "prevpos": 187,
-    "tested": 41,
-    "testedkumulativ": 2
+    "tested": 41342,
+    "testedkumulativ": 2988
   },
   {
     "date": "2020-09-13",
     "newpositive": 296,
-    "notprevpos": 41,
+    "notprevpos": 41642,
     "pospct": 0,
     "prevpos": 252,
-    "tested": 41,
-    "testedkumulativ": 3
+    "tested": 41894,
+    "testedkumulativ": 3030
   },
   {
     "date": "2020-09-14",
     "newpositive": 382,
-    "notprevpos": 55,
+    "notprevpos": 55433,
     "pospct": 0,
     "prevpos": 299,
-    "tested": 55,
-    "testedkumulativ": 3
+    "tested": 55732,
+    "testedkumulativ": 3085
   },
   {
     "date": "2020-09-15",
     "newpositive": 439,
-    "notprevpos": 55,
+    "notprevpos": 55895,
     "pospct": 0,
     "prevpos": 259,
-    "tested": 56,
-    "testedkumulativ": 3
+    "tested": 56154,
+    "testedkumulativ": 3141
   },
   {
     "date": "2020-09-16",
     "newpositive": 559,
-    "notprevpos": 56,
+    "notprevpos": 56302,
     "pospct": 1,
     "prevpos": 375,
-    "tested": 56,
-    "testedkumulativ": 3
+    "tested": 56677,
+    "testedkumulativ": 3198
   },
   {
     "date": "2020-09-17",
     "newpositive": 516,
-    "notprevpos": 51,
+    "notprevpos": 51693,
     "pospct": 1,
     "prevpos": 314,
-    "tested": 52,
-    "testedkumulativ": 3
+    "tested": 52007,
+    "testedkumulativ": 3250
   },
   {
     "date": "2020-09-18",
     "newpositive": 477,
-    "notprevpos": 51,
+    "notprevpos": 51109,
     "pospct": 0,
     "prevpos": 385,
-    "tested": 51,
-    "testedkumulativ": 3
+    "tested": 51494,
+    "testedkumulativ": 3302
   },
   {
     "date": "2020-09-19",
     "newpositive": 422,
-    "notprevpos": 39,
+    "notprevpos": 39785,
     "pospct": 1,
     "prevpos": 266,
-    "tested": 40,
-    "testedkumulativ": 3
+    "tested": 40051,
+    "testedkumulativ": 3342
   },
   {
     "date": "2020-09-20",
     "newpositive": 411,
-    "notprevpos": 40,
+    "notprevpos": 40711,
     "pospct": 1,
     "prevpos": 255,
-    "tested": 40,
-    "testedkumulativ": 3
+    "tested": 40966,
+    "testedkumulativ": 3383
   },
   {
     "date": "2020-09-21",
     "newpositive": 536,
-    "notprevpos": 53,
+    "notprevpos": 53810,
     "pospct": 1,
     "prevpos": 329,
-    "tested": 54,
-    "testedkumulativ": 3
+    "tested": 54139,
+    "testedkumulativ": 3437
   },
   {
     "date": "2020-09-22",
     "newpositive": 591,
-    "notprevpos": 56,
+    "notprevpos": 56234,
     "pospct": 1,
     "prevpos": 382,
-    "tested": 56,
-    "testedkumulativ": 3
+    "tested": 56616,
+    "testedkumulativ": 3493
   },
   {
     "date": "2020-09-23",
     "newpositive": 651,
-    "notprevpos": 55,
+    "notprevpos": 55084,
     "pospct": 1,
     "prevpos": 424,
-    "tested": 55,
-    "testedkumulativ": 3
+    "tested": 55508,
+    "testedkumulativ": 3549
   },
   {
     "date": "2020-09-24",
     "newpositive": 607,
-    "notprevpos": 53,
+    "notprevpos": 53470,
     "pospct": 1,
     "prevpos": 420,
-    "tested": 53,
-    "testedkumulativ": 3
+    "tested": 53890,
+    "testedkumulativ": 3603
   },
   {
     "date": "2020-09-25",
     "newpositive": 488,
-    "notprevpos": 51,
+    "notprevpos": 51143,
     "pospct": 1,
     "prevpos": 394,
-    "tested": 51,
-    "testedkumulativ": 3
+    "tested": 51537,
+    "testedkumulativ": 3654
   },
   {
     "date": "2020-09-26",
     "newpositive": 394,
-    "notprevpos": 39,
+    "notprevpos": 39300,
     "pospct": 1,
     "prevpos": 285,
-    "tested": 39,
-    "testedkumulativ": 3
+    "tested": 39585,
+    "testedkumulativ": 3694
   },
   {
     "date": "2020-09-27",
     "newpositive": 357,
-    "notprevpos": 39,
+    "notprevpos": 39276,
     "pospct": 0,
     "prevpos": 315,
-    "tested": 39,
-    "testedkumulativ": 3
+    "tested": 39591,
+    "testedkumulativ": 3734
   },
   {
     "date": "2020-09-28",
     "newpositive": 484,
-    "notprevpos": 53,
+    "notprevpos": 53544,
     "pospct": 0,
     "prevpos": 391,
-    "tested": 53,
-    "testedkumulativ": 3
+    "tested": 53935,
+    "testedkumulativ": 3787
   },
   {
     "date": "2020-09-29",
     "newpositive": 451,
-    "notprevpos": 50,
+    "notprevpos": 50301,
     "pospct": 0,
     "prevpos": 399,
-    "tested": 50,
-    "testedkumulativ": 3
+    "tested": 50700,
+    "testedkumulativ": 3838
   },
   {
     "date": "2020-09-30",
     "newpositive": 438,
-    "notprevpos": 47,
+    "notprevpos": 47272,
     "pospct": 0,
     "prevpos": 414,
-    "tested": 47,
-    "testedkumulativ": 3
+    "tested": 47686,
+    "testedkumulativ": 3886
   },
   {
     "date": "2020-10-01",
     "newpositive": 433,
-    "notprevpos": 44,
+    "notprevpos": 44009,
     "pospct": 1,
     "prevpos": 459,
-    "tested": 44,
-    "testedkumulativ": 3
+    "tested": 44468,
+    "testedkumulativ": 3930
   },
   {
     "date": "2020-10-02",
     "newpositive": 368,
-    "notprevpos": 42,
+    "notprevpos": 42677,
     "pospct": 0,
     "prevpos": 435,
-    "tested": 43,
-    "testedkumulativ": 3
+    "tested": 43112,
+    "testedkumulativ": 3973
   },
   {
     "date": "2020-10-03",
     "newpositive": 340,
-    "notprevpos": 33,
+    "notprevpos": 33321,
     "pospct": 1,
     "prevpos": 282,
-    "tested": 33,
-    "testedkumulativ": 4
+    "tested": 33603,
+    "testedkumulativ": 4007
   },
   {
     "date": "2020-10-04",
     "newpositive": 313,
-    "notprevpos": 33,
+    "notprevpos": 33645,
     "pospct": 0,
     "prevpos": 304,
-    "tested": 33,
-    "testedkumulativ": 4
+    "tested": 33949,
+    "testedkumulativ": 4041
   },
   {
     "date": "2020-10-05",
     "newpositive": 433,
-    "notprevpos": 51,
+    "notprevpos": 51991,
     "pospct": 0,
     "prevpos": 394,
-    "tested": 52,
-    "testedkumulativ": 4
+    "tested": 52385,
+    "testedkumulativ": 4093
   },
   {
     "date": "2020-10-06",
     "newpositive": 431,
-    "notprevpos": 53,
+    "notprevpos": 53143,
     "pospct": 0,
     "prevpos": 423,
-    "tested": 53,
-    "testedkumulativ": 4
+    "tested": 53566,
+    "testedkumulativ": 4147
   },
   {
     "date": "2020-10-07",
     "newpositive": 452,
-    "notprevpos": 49,
+    "notprevpos": 49580,
     "pospct": 0,
     "prevpos": 470,
-    "tested": 50,
-    "testedkumulativ": 4
+    "tested": 50050,
+    "testedkumulativ": 4197
   },
   {
     "date": "2020-10-08",
     "newpositive": 420,
-    "notprevpos": 47,
+    "notprevpos": 47330,
     "pospct": 0,
     "prevpos": 439,
-    "tested": 47,
-    "testedkumulativ": 4
+    "tested": 47769,
+    "testedkumulativ": 4245
   },
   {
     "date": "2020-10-09",
     "newpositive": 413,
-    "notprevpos": 39,
+    "notprevpos": 39273,
     "pospct": 1,
     "prevpos": 358,
-    "tested": 39,
-    "testedkumulativ": 4
+    "tested": 39631,
+    "testedkumulativ": 4284
   },
   {
     "date": "2020-10-10",
     "newpositive": 286,
-    "notprevpos": 26,
+    "notprevpos": 26944,
     "pospct": 1,
     "prevpos": 243,
-    "tested": 27,
-    "testedkumulativ": 4
+    "tested": 27187,
+    "testedkumulativ": 4312
   },
   {
     "date": "2020-10-11",
     "newpositive": 255,
-    "notprevpos": 26,
+    "notprevpos": 26516,
     "pospct": 1,
     "prevpos": 247,
-    "tested": 26,
-    "testedkumulativ": 4
+    "tested": 26763,
+    "testedkumulativ": 4338
   },
   {
     "date": "2020-10-12",
     "newpositive": 462,
-    "notprevpos": 40,
+    "notprevpos": 40085,
     "pospct": 1,
     "prevpos": 362,
-    "tested": 40,
-    "testedkumulativ": 4
+    "tested": 40447,
+    "testedkumulativ": 4379
   },
   {
     "date": "2020-10-13",
     "newpositive": 434,
-    "notprevpos": 35,
+    "notprevpos": 35845,
     "pospct": 1,
     "prevpos": 406,
-    "tested": 36,
-    "testedkumulativ": 4
+    "tested": 36251,
+    "testedkumulativ": 4415
   },
   {
     "date": "2020-10-14",
     "newpositive": 480,
-    "notprevpos": 35,
+    "notprevpos": 35463,
     "pospct": 1,
     "prevpos": 397,
-    "tested": 35,
-    "testedkumulativ": 4
+    "tested": 35860,
+    "testedkumulativ": 4451
   },
   {
     "date": "2020-10-15",
     "newpositive": 455,
-    "notprevpos": 34,
+    "notprevpos": 34872,
     "pospct": 1,
     "prevpos": 364,
-    "tested": 35,
-    "testedkumulativ": 4
+    "tested": 35236,
+    "testedkumulativ": 4486
   },
   {
     "date": "2020-10-16",
     "newpositive": 478,
-    "notprevpos": 34,
+    "notprevpos": 34335,
     "pospct": 1,
     "prevpos": 390,
-    "tested": 34,
-    "testedkumulativ": 4
+    "tested": 34725,
+    "testedkumulativ": 4521
   },
   {
     "date": "2020-10-17",
     "newpositive": 433,
-    "notprevpos": 26,
+    "notprevpos": 26757,
     "pospct": 1,
     "prevpos": 276,
-    "tested": 27,
-    "testedkumulativ": 4
+    "tested": 27033,
+    "testedkumulativ": 4548
   },
   {
     "date": "2020-10-18",
     "newpositive": 459,
-    "notprevpos": 29,
+    "notprevpos": 29972,
     "pospct": 1,
     "prevpos": 289,
-    "tested": 30,
-    "testedkumulativ": 4
+    "tested": 30261,
+    "testedkumulativ": 4578
   },
   {
     "date": "2020-10-19",
     "newpositive": 702,
-    "notprevpos": 47,
+    "notprevpos": 47742,
     "pospct": 1,
     "prevpos": 457,
-    "tested": 48,
-    "testedkumulativ": 4
+    "tested": 48199,
+    "testedkumulativ": 4626
   },
   {
     "date": "2020-10-20",
     "newpositive": 790,
-    "notprevpos": 44,
+    "notprevpos": 44053,
     "pospct": 1,
     "prevpos": 457,
-    "tested": 44,
-    "testedkumulativ": 4
+    "tested": 44510,
+    "testedkumulativ": 4671
   },
   {
     "date": "2020-10-21",
     "newpositive": 861,
-    "notprevpos": 46,
+    "notprevpos": 46958,
     "pospct": 1,
     "prevpos": 494,
-    "tested": 47,
-    "testedkumulativ": 4
+    "tested": 47452,
+    "testedkumulativ": 4718
   },
   {
     "date": "2020-10-22",
     "newpositive": 879,
-    "notprevpos": 48,
+    "notprevpos": 48954,
     "pospct": 1,
     "prevpos": 546,
-    "tested": 49,
-    "testedkumulativ": 4
+    "tested": 49500,
+    "testedkumulativ": 4768
   },
   {
     "date": "2020-10-23",
     "newpositive": 864,
-    "notprevpos": 49,
+    "notprevpos": 49985,
     "pospct": 1,
     "prevpos": 432,
-    "tested": 50,
-    "testedkumulativ": 4
+    "tested": 50417,
+    "testedkumulativ": 4818
   },
   {
     "date": "2020-10-24",
     "newpositive": 823,
-    "notprevpos": 45,
+    "notprevpos": 45448,
     "pospct": 1,
     "prevpos": 348,
-    "tested": 45,
-    "testedkumulativ": 4
+    "tested": 45796,
+    "testedkumulativ": 4864
   },
   {
     "date": "2020-10-25",
     "newpositive": 926,
-    "notprevpos": 51,
+    "notprevpos": 51524,
     "pospct": 1,
     "prevpos": 407,
-    "tested": 51,
-    "testedkumulativ": 4
+    "tested": 51931,
+    "testedkumulativ": 4916
   },
   {
     "date": "2020-10-26",
-    "newpositive": 1,
-    "notprevpos": 65,
+    "newpositive": 1015,
+    "notprevpos": 65387,
     "pospct": 1,
     "prevpos": 544,
-    "tested": 65,
-    "testedkumulativ": 4
+    "tested": 65931,
+    "testedkumulativ": 4982
   },
   {
     "date": "2020-10-27",
-    "newpositive": 1,
-    "notprevpos": 72,
+    "newpositive": 1238,
+    "notprevpos": 72460,
     "pospct": 1,
     "prevpos": 625,
-    "tested": 73,
-    "testedkumulativ": 5
+    "tested": 73085,
+    "testedkumulativ": 5055
   },
   {
     "date": "2020-10-28",
-    "newpositive": 1,
-    "notprevpos": 69,
+    "newpositive": 1212,
+    "notprevpos": 69522,
     "pospct": 1,
     "prevpos": 581,
-    "tested": 70,
-    "testedkumulativ": 5
+    "tested": 70103,
+    "testedkumulativ": 5125
   },
   {
     "date": "2020-10-29",
-    "newpositive": 1,
-    "notprevpos": 67,
+    "newpositive": 1016,
+    "notprevpos": 67051,
     "pospct": 1,
     "prevpos": 644,
-    "tested": 67,
-    "testedkumulativ": 5
+    "tested": 67695,
+    "testedkumulativ": 5193
   },
   {
     "date": "2020-10-30",
-    "newpositive": 1,
-    "notprevpos": 63,
+    "newpositive": 1077,
+    "notprevpos": 63155,
     "pospct": 1,
     "prevpos": 579,
-    "tested": 63,
-    "testedkumulativ": 5
+    "tested": 63734,
+    "testedkumulativ": 5257
   },
   {
     "date": "2020-10-31",
     "newpositive": 982,
-    "notprevpos": 50,
+    "notprevpos": 50688,
     "pospct": 1,
     "prevpos": 511,
-    "tested": 51,
-    "testedkumulativ": 5
+    "tested": 51199,
+    "testedkumulativ": 5308
   },
   {
     "date": "2020-11-01",
     "newpositive": 960,
-    "notprevpos": 51,
+    "notprevpos": 51286,
     "pospct": 1,
     "prevpos": 451,
-    "tested": 51,
-    "testedkumulativ": 5
+    "tested": 51737,
+    "testedkumulativ": 5359
   },
   {
     "date": "2020-11-02",
-    "newpositive": 1,
-    "notprevpos": 69,
+    "newpositive": 1272,
+    "notprevpos": 69162,
     "pospct": 1,
     "prevpos": 716,
-    "tested": 69,
-    "testedkumulativ": 5
+    "tested": 69878,
+    "testedkumulativ": 5429
   },
   {
     "date": "2020-11-03",
-    "newpositive": 1,
-    "notprevpos": 72,
+    "newpositive": 1262,
+    "notprevpos": 72850,
     "pospct": 1,
     "prevpos": 725,
-    "tested": 73,
-    "testedkumulativ": 5
+    "tested": 73575,
+    "testedkumulativ": 5503
   },
   {
     "date": "2020-11-04",
-    "newpositive": 1,
-    "notprevpos": 70,
+    "newpositive": 1244,
+    "notprevpos": 70580,
     "pospct": 1,
     "prevpos": 709,
-    "tested": 71,
-    "testedkumulativ": 5
+    "tested": 71289,
+    "testedkumulativ": 5574
   },
   {
     "date": "2020-11-05",
-    "newpositive": 1,
-    "notprevpos": 70,
+    "newpositive": 1033,
+    "notprevpos": 70317,
     "pospct": 1,
     "prevpos": 786,
-    "tested": 71,
-    "testedkumulativ": 5
+    "tested": 71103,
+    "testedkumulativ": 5645
   },
   {
     "date": "2020-11-06",
     "newpositive": 962,
-    "notprevpos": 68,
+    "notprevpos": 68423,
     "pospct": 1,
     "prevpos": 730,
-    "tested": 69,
-    "testedkumulativ": 5
+    "tested": 69153,
+    "testedkumulativ": 5714
   },
   {
     "date": "2020-11-07",
     "newpositive": 845,
-    "notprevpos": 58,
+    "notprevpos": 58457,
     "pospct": 1,
     "prevpos": 521,
-    "tested": 58,
-    "testedkumulativ": 5
+    "tested": 58978,
+    "testedkumulativ": 5773
   },
   {
     "date": "2020-11-08",
     "newpositive": 758,
-    "notprevpos": 57,
+    "notprevpos": 57626,
     "pospct": 1,
     "prevpos": 544,
-    "tested": 58,
-    "testedkumulativ": 5
+    "tested": 58170,
+    "testedkumulativ": 5832
   },
   {
     "date": "2020-11-09",
-    "newpositive": 1,
-    "notprevpos": 80,
+    "newpositive": 1052,
+    "notprevpos": 80157,
     "pospct": 1,
     "prevpos": 815,
-    "tested": 80,
-    "testedkumulativ": 5
+    "tested": 80972,
+    "testedkumulativ": 5913
   },
   {
     "date": "2020-11-10",
-    "newpositive": 1,
-    "notprevpos": 79,
+    "newpositive": 1075,
+    "notprevpos": 79733,
     "pospct": 1,
     "prevpos": 821,
-    "tested": 80,
-    "testedkumulativ": 5
+    "tested": 80554,
+    "testedkumulativ": 5993
   },
   {
     "date": "2020-11-11",
-    "newpositive": 1,
-    "notprevpos": 75,
+    "newpositive": 1106,
+    "notprevpos": 75140,
     "pospct": 1,
     "prevpos": 870,
-    "tested": 76,
-    "testedkumulativ": 6
+    "tested": 76010,
+    "testedkumulativ": 6069
   },
   {
     "date": "2020-11-12",
-    "newpositive": 1,
-    "notprevpos": 73,
+    "newpositive": 1065,
+    "notprevpos": 73273,
     "pospct": 1,
     "prevpos": 812,
-    "tested": 74,
-    "testedkumulativ": 6
+    "tested": 74085,
+    "testedkumulativ": 6143
   },
   {
     "date": "2020-11-13",
-    "newpositive": 1,
-    "notprevpos": 70,
+    "newpositive": 1155,
+    "notprevpos": 70945,
     "pospct": 1,
     "prevpos": 907,
-    "tested": 71,
-    "testedkumulativ": 6
+    "tested": 71852,
+    "testedkumulativ": 6215
   },
   {
     "date": "2020-11-14",
-    "newpositive": 1,
-    "notprevpos": 55,
+    "newpositive": 1058,
+    "notprevpos": 55470,
     "pospct": 1,
     "prevpos": 633,
-    "tested": 56,
-    "testedkumulativ": 6
+    "tested": 56103,
+    "testedkumulativ": 6271
   },
   {
     "date": "2020-11-15",
-    "newpositive": 1,
-    "notprevpos": 54,
+    "newpositive": 1005,
+    "notprevpos": 54622,
     "pospct": 1,
     "prevpos": 637,
-    "tested": 55,
-    "testedkumulativ": 6
+    "tested": 55259,
+    "testedkumulativ": 6326
   },
   {
     "date": "2020-11-16",
-    "newpositive": 1,
-    "notprevpos": 78,
+    "newpositive": 1258,
+    "notprevpos": 78031,
     "pospct": 1,
     "prevpos": 875,
-    "tested": 78,
-    "testedkumulativ": 6
+    "tested": 78906,
+    "testedkumulativ": 6405
   },
   {
     "date": "2020-11-17",
-    "newpositive": 1,
-    "notprevpos": 81,
+    "newpositive": 1335,
+    "notprevpos": 81492,
     "pospct": 1,
     "prevpos": 947,
-    "tested": 82,
-    "testedkumulativ": 6
+    "tested": 82439,
+    "testedkumulativ": 6488
   },
   {
     "date": "2020-11-18",
-    "newpositive": 1,
-    "notprevpos": 78,
+    "newpositive": 1341,
+    "notprevpos": 78901,
     "pospct": 1,
     "prevpos": 859,
-    "tested": 79,
-    "testedkumulativ": 6
+    "tested": 79760,
+    "testedkumulativ": 6568
   },
   {
     "date": "2020-11-19",
-    "newpositive": 1,
-    "notprevpos": 74,
+    "newpositive": 1231,
+    "notprevpos": 74273,
     "pospct": 1,
     "prevpos": 861,
-    "tested": 75,
-    "testedkumulativ": 6
+    "tested": 75134,
+    "testedkumulativ": 6643
   },
   {
     "date": "2020-11-20",
-    "newpositive": 1,
-    "notprevpos": 71,
+    "newpositive": 1247,
+    "notprevpos": 71518,
     "pospct": 1,
     "prevpos": 849,
-    "tested": 72,
-    "testedkumulativ": 6
+    "tested": 72367,
+    "testedkumulativ": 6715
   },
   {
     "date": "2020-11-21",
-    "newpositive": 1,
-    "notprevpos": 57,
+    "newpositive": 1005,
+    "notprevpos": 57090,
     "pospct": 1,
     "prevpos": 626,
-    "tested": 57,
-    "testedkumulativ": 6
+    "tested": 57716,
+    "testedkumulativ": 6773
   },
   {
     "date": "2020-11-22",
-    "newpositive": 1,
-    "notprevpos": 60,
+    "newpositive": 1015,
+    "notprevpos": 60363,
     "pospct": 1,
     "prevpos": 628,
-    "tested": 60,
-    "testedkumulativ": 6
+    "tested": 60991,
+    "testedkumulativ": 6834
   },
   {
     "date": "2020-11-23",
-    "newpositive": 1,
-    "notprevpos": 76,
+    "newpositive": 1184,
+    "notprevpos": 76130,
     "pospct": 1,
     "prevpos": 899,
-    "tested": 77,
-    "testedkumulativ": 6
+    "tested": 77029,
+    "testedkumulativ": 6911
   },
   {
     "date": "2020-11-24",
-    "newpositive": 1,
-    "notprevpos": 82,
+    "newpositive": 1331,
+    "notprevpos": 82457,
     "pospct": 1,
     "prevpos": 948,
-    "tested": 83,
-    "testedkumulativ": 6
+    "tested": 83405,
+    "testedkumulativ": 6994
   },
   {
     "date": "2020-11-25",
-    "newpositive": 1,
-    "notprevpos": 78,
+    "newpositive": 1309,
+    "notprevpos": 78948,
     "pospct": 1,
     "prevpos": 933,
-    "tested": 79,
-    "testedkumulativ": 7
+    "tested": 79881,
+    "testedkumulativ": 7074
   },
   {
     "date": "2020-11-26",
-    "newpositive": 1,
-    "notprevpos": 79,
+    "newpositive": 1266,
+    "notprevpos": 79049,
     "pospct": 1,
     "prevpos": 949,
-    "tested": 79,
-    "testedkumulativ": 7
+    "tested": 79998,
+    "testedkumulativ": 7154
   },
   {
     "date": "2020-11-27",
-    "newpositive": 1,
-    "notprevpos": 71,
+    "newpositive": 1314,
+    "notprevpos": 71024,
     "pospct": 1,
     "prevpos": 808,
-    "tested": 71,
-    "testedkumulativ": 7
+    "tested": 71832,
+    "testedkumulativ": 7226
   },
   {
     "date": "2020-11-28",
-    "newpositive": 1,
-    "notprevpos": 55,
+    "newpositive": 1160,
+    "notprevpos": 55889,
     "pospct": 2,
     "prevpos": 635,
-    "tested": 56,
-    "testedkumulativ": 7
+    "tested": 56524,
+    "testedkumulativ": 7282
   },
   {
     "date": "2020-11-29",
-    "newpositive": 1,
-    "notprevpos": 57,
+    "newpositive": 1177,
+    "notprevpos": 57382,
     "pospct": 2,
     "prevpos": 644,
-    "tested": 58,
-    "testedkumulativ": 7
+    "tested": 58026,
+    "testedkumulativ": 7340
   },
   {
     "date": "2020-11-30",
-    "newpositive": 1,
-    "notprevpos": 79,
+    "newpositive": 1535,
+    "notprevpos": 79113,
     "pospct": 1,
-    "prevpos": 1,
-    "tested": 80,
-    "testedkumulativ": 7
+    "prevpos": 1037,
+    "tested": 80150,
+    "testedkumulativ": 7421
   },
   {
     "date": "2020-12-01",
-    "newpositive": 1,
-    "notprevpos": 81,
+    "newpositive": 1713,
+    "notprevpos": 81269,
     "pospct": 2,
     "prevpos": 972,
-    "tested": 82,
-    "testedkumulativ": 7
+    "tested": 82241,
+    "testedkumulativ": 7503
   },
   {
     "date": "2020-12-02",
-    "newpositive": 1,
-    "notprevpos": 83,
+    "newpositive": 1876,
+    "notprevpos": 83334,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 84,
-    "testedkumulativ": 7
+    "prevpos": 1013,
+    "tested": 84347,
+    "testedkumulativ": 7587
   },
   {
     "date": "2020-12-03",
-    "newpositive": 1,
-    "notprevpos": 87,
+    "newpositive": 1916,
+    "notprevpos": 87012,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 88,
-    "testedkumulativ": 7
+    "prevpos": 1080,
+    "tested": 88092,
+    "testedkumulativ": 7675
   },
   {
     "date": "2020-12-04",
-    "newpositive": 2,
-    "notprevpos": 80,
+    "newpositive": 2022,
+    "notprevpos": 80513,
     "pospct": 2,
     "prevpos": 976,
-    "tested": 81,
-    "testedkumulativ": 7
+    "tested": 81489,
+    "testedkumulativ": 7757
   },
   {
     "date": "2020-12-05",
-    "newpositive": 1,
-    "notprevpos": 62,
+    "newpositive": 1719,
+    "notprevpos": 62582,
     "pospct": 2,
     "prevpos": 696,
-    "tested": 63,
-    "testedkumulativ": 7
+    "tested": 63278,
+    "testedkumulativ": 7820
   },
   {
     "date": "2020-12-06",
-    "newpositive": 1,
-    "notprevpos": 68,
+    "newpositive": 1973,
+    "notprevpos": 68323,
     "pospct": 2,
     "prevpos": 732,
-    "tested": 69,
-    "testedkumulativ": 7
+    "tested": 69055,
+    "testedkumulativ": 7889
   },
   {
     "date": "2020-12-07",
-    "newpositive": 2,
-    "notprevpos": 96,
+    "newpositive": 2743,
+    "notprevpos": 96528,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 97,
-    "testedkumulativ": 7
+    "prevpos": 1181,
+    "tested": 97709,
+    "testedkumulativ": 7987
   },
   {
     "date": "2020-12-08",
-    "newpositive": 3,
-    "notprevpos": 108,
+    "newpositive": 3109,
+    "notprevpos": 108616,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 109,
-    "testedkumulativ": 8
+    "prevpos": 1214,
+    "tested": 109830,
+    "testedkumulativ": 8097
   },
   {
     "date": "2020-12-09",
-    "newpositive": 3,
-    "notprevpos": 107,
+    "newpositive": 3174,
+    "notprevpos": 107745,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 108,
-    "testedkumulativ": 8
+    "prevpos": 1212,
+    "tested": 108957,
+    "testedkumulativ": 8206
   },
   {
     "date": "2020-12-10",
-    "newpositive": 3,
-    "notprevpos": 107,
+    "newpositive": 3268,
+    "notprevpos": 107590,
     "pospct": 3,
-    "prevpos": 1,
-    "tested": 108,
-    "testedkumulativ": 8
+    "prevpos": 1259,
+    "tested": 108849,
+    "testedkumulativ": 8314
   },
   {
     "date": "2020-12-11",
-    "newpositive": 3,
-    "notprevpos": 100,
+    "newpositive": 3265,
+    "notprevpos": 100226,
     "pospct": 3,
-    "prevpos": 1,
-    "tested": 101,
-    "testedkumulativ": 8
+    "prevpos": 1222,
+    "tested": 101448,
+    "testedkumulativ": 8416
   },
   {
     "date": "2020-12-12",
-    "newpositive": 3,
-    "notprevpos": 84,
+    "newpositive": 3077,
+    "notprevpos": 84407,
     "pospct": 3,
     "prevpos": 908,
-    "tested": 85,
-    "testedkumulativ": 8
+    "tested": 85315,
+    "testedkumulativ": 8501
   },
   {
     "date": "2020-12-13",
-    "newpositive": 3,
-    "notprevpos": 85,
+    "newpositive": 3167,
+    "notprevpos": 85718,
     "pospct": 3,
     "prevpos": 973,
-    "tested": 86,
-    "testedkumulativ": 8
+    "tested": 86691,
+    "testedkumulativ": 8588
   },
   {
     "date": "2020-12-14",
-    "newpositive": 3,
-    "notprevpos": 119,
+    "newpositive": 3923,
+    "notprevpos": 119929,
     "pospct": 3,
-    "prevpos": 1,
-    "tested": 121,
-    "testedkumulativ": 8
+    "prevpos": 1435,
+    "tested": 121364,
+    "testedkumulativ": 8709
   },
   {
     "date": "2020-12-15",
-    "newpositive": 4,
-    "notprevpos": 131,
+    "newpositive": 4255,
+    "notprevpos": 131764,
     "pospct": 3,
-    "prevpos": 1,
-    "tested": 133,
-    "testedkumulativ": 8
+    "prevpos": 1733,
+    "tested": 133497,
+    "testedkumulativ": 8843
   },
   {
     "date": "2020-12-16",
-    "newpositive": 4,
-    "notprevpos": 133,
+    "newpositive": 4349,
+    "notprevpos": 133699,
     "pospct": 3,
-    "prevpos": 1,
-    "tested": 135,
-    "testedkumulativ": 8
+    "prevpos": 1782,
+    "tested": 135481,
+    "testedkumulativ": 8978
   },
   {
     "date": "2020-12-17",
-    "newpositive": 3,
-    "notprevpos": 131,
+    "newpositive": 3578,
+    "notprevpos": 131084,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 132,
-    "testedkumulativ": 9
+    "prevpos": 1618,
+    "tested": 132702,
+    "testedkumulativ": 9111
   },
   {
     "date": "2020-12-18",
-    "newpositive": 3,
-    "notprevpos": 127,
+    "newpositive": 3116,
+    "notprevpos": 127634,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 129,
-    "testedkumulativ": 9
+    "prevpos": 1521,
+    "tested": 129155,
+    "testedkumulativ": 9240
   },
   {
     "date": "2020-12-19",
-    "newpositive": 2,
-    "notprevpos": 113,
+    "newpositive": 2750,
+    "notprevpos": 113618,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 114,
-    "testedkumulativ": 9
+    "prevpos": 1210,
+    "tested": 114828,
+    "testedkumulativ": 9355
   },
   {
     "date": "2020-12-20",
-    "newpositive": 2,
-    "notprevpos": 119,
+    "newpositive": 2454,
+    "notprevpos": 119553,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 120,
-    "testedkumulativ": 9
+    "prevpos": 1223,
+    "tested": 120776,
+    "testedkumulativ": 9476
   },
   {
     "date": "2020-12-21",
-    "newpositive": 3,
-    "notprevpos": 164,
+    "newpositive": 3067,
+    "notprevpos": 164299,
     "pospct": 1,
-    "prevpos": 2,
-    "tested": 166,
-    "testedkumulativ": 9
+    "prevpos": 2027,
+    "tested": 166326,
+    "testedkumulativ": 9642
   },
   {
     "date": "2020-12-22",
-    "newpositive": 2,
-    "notprevpos": 159,
+    "newpositive": 2842,
+    "notprevpos": 159584,
     "pospct": 1,
-    "prevpos": 2,
-    "tested": 161,
-    "testedkumulativ": 9
+    "prevpos": 2086,
+    "tested": 161670,
+    "testedkumulativ": 9804
   },
   {
     "date": "2020-12-23",
-    "newpositive": 3,
-    "notprevpos": 117,
+    "newpositive": 3045,
+    "notprevpos": 117044,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 118,
-    "testedkumulativ": 9
+    "prevpos": 1917,
+    "tested": 118961,
+    "testedkumulativ": 9923
   },
   {
     "date": "2020-12-24",
-    "newpositive": 1,
-    "notprevpos": 37,
+    "newpositive": 1480,
+    "notprevpos": 37546,
     "pospct": 3,
     "prevpos": 839,
-    "tested": 38,
-    "testedkumulativ": 9
+    "tested": 38385,
+    "testedkumulativ": 9961
   },
   {
     "date": "2020-12-25",
-    "newpositive": 1,
-    "notprevpos": 38,
+    "newpositive": 1603,
+    "notprevpos": 38373,
     "pospct": 4,
     "prevpos": 796,
-    "tested": 39,
-    "testedkumulativ": 10
+    "tested": 39169,
+    "testedkumulativ": 10000
   },
   {
     "date": "2020-12-26",
-    "newpositive": 2,
-    "notprevpos": 61,
+    "newpositive": 2693,
+    "notprevpos": 61371,
     "pospct": 4,
-    "prevpos": 1,
-    "tested": 62,
-    "testedkumulativ": 10
+    "prevpos": 1291,
+    "tested": 62662,
+    "testedkumulativ": 10063
   },
   {
     "date": "2020-12-27",
-    "newpositive": 2,
-    "notprevpos": 65,
+    "newpositive": 2196,
+    "notprevpos": 65861,
     "pospct": 3,
-    "prevpos": 1,
-    "tested": 67,
-    "testedkumulativ": 10
+    "prevpos": 1174,
+    "tested": 67035,
+    "testedkumulativ": 10130
   },
   {
     "date": "2020-12-28",
-    "newpositive": 3,
-    "notprevpos": 109,
+    "newpositive": 3080,
+    "notprevpos": 109881,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 111,
-    "testedkumulativ": 10
+    "prevpos": 1847,
+    "tested": 111728,
+    "testedkumulativ": 10242
   },
   {
     "date": "2020-12-29",
-    "newpositive": 2,
-    "notprevpos": 115,
+    "newpositive": 2492,
+    "notprevpos": 115509,
     "pospct": 2,
-    "prevpos": 1,
-    "tested": 117,
-    "testedkumulativ": 10
+    "prevpos": 1952,
+    "tested": 117461,
+    "testedkumulativ": 10359
   },
   {
     "date": "2020-12-30",
-    "newpositive": 2,
-    "notprevpos": 108,
+    "newpositive": 2767,
+    "notprevpos": 108198,
     "pospct": 2,
-    "prevpos": 2,
-    "tested": 110,
-    "testedkumulativ": 10
+    "prevpos": 2121,
+    "tested": 110319,
+    "testedkumulativ": 10469
   },
   {
     "date": "2020-12-31",
-    "newpositive": 1,
-    "notprevpos": 31,
+    "newpositive": 1173,
+    "notprevpos": 31878,
     "pospct": 3,
     "prevpos": 750,
-    "tested": 32,
-    "testedkumulativ": 10
+    "tested": 32628,
+    "testedkumulativ": 10502
   },
   {
     "date": "2021-01-01",
     "newpositive": 523,
-    "notprevpos": 11,
+    "notprevpos": 11570,
     "pospct": 4,
     "prevpos": 281,
-    "tested": 11,
-    "testedkumulativ": 10
+    "tested": 11851,
+    "testedkumulativ": 10514
   },
   {
     "date": "2021-01-02",
@@ -3075,6 +3075,6 @@
     "pospct": 11,
     "prevpos": 3,
     "tested": 46,
-    "testedkumulativ": 10
+    "testedkumulativ": 10514
   }
 ]
