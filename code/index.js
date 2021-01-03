@@ -18,11 +18,10 @@ const trainData = data.map((day) => {
 const net = new brain.NeuralNetwork();
 net.train(trainData);
 
-console.log(trainData);
-
 let day = 24 * 60 * 60 * 1000;
 let today = new Date();
-let lastDeaths = 24;
+let lastObj = data[data.length - 2];
+let lastDeaths = parseInt(lastObj[Object.keys(lastObj)[0]]);
 for (var i = 0; i < 30; i++) {
   const prediction = net.run(getInput(today));
   let mul = (prediction[0] - 0.5) * 2 + 1;
