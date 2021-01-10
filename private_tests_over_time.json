@@ -267,16 +267,100 @@
   },
   {
     "date": "2021-01-02",
-    "testproviders": 12,
+    "testproviders": 13,
     "pcr": {
-      "tests": 147,
+      "tests": 171,
       "positive": 3,
-      "pct": 2.04
+      "pct": 1.75
     },
     "antigen": {
       "tests": 18282,
       "positive": 443,
       "pct": 2.42
+    }
+  },
+  {
+    "date": "2021-01-03",
+    "testproviders": 15,
+    "pcr": {
+      "tests": 775,
+      "positive": 3,
+      "pct": 0.39
+    },
+    "antigen": {
+      "tests": 26152,
+      "positive": 491,
+      "pct": 1.88
+    }
+  },
+  {
+    "date": "2021-01-04",
+    "testproviders": 21,
+    "pcr": {
+      "tests": 2602,
+      "positive": 16,
+      "pct": 0.61
+    },
+    "antigen": {
+      "tests": 32978,
+      "positive": 453,
+      "pct": 1.37
+    }
+  },
+  {
+    "date": "2021-01-05",
+    "testproviders": 17,
+    "pcr": {
+      "tests": 1471,
+      "positive": 11,
+      "pct": 0.75
+    },
+    "antigen": {
+      "tests": 23099,
+      "positive": 351,
+      "pct": 1.52
+    }
+  },
+  {
+    "date": "2021-01-06",
+    "testproviders": 19,
+    "pcr": {
+      "tests": 1842,
+      "positive": 8,
+      "pct": 0.43
+    },
+    "antigen": {
+      "tests": 19627,
+      "positive": 303,
+      "pct": 1.54
+    }
+  },
+  {
+    "date": "2021-01-07",
+    "testproviders": 15,
+    "pcr": {
+      "tests": 1146,
+      "positive": 6,
+      "pct": 0.52
+    },
+    "antigen": {
+      "tests": 18953,
+      "positive": 216,
+      "pct": 1.14
+    }
+  },
+  {
+    "date": "2021-01-08",
+    "testproviders": 13,
+    "pcr": {
+      "tests": 892,
+      "positive": 7,
+      "pct": 0.78
+    },
+    "antigen": {
+      "tests": 17746,
+      "positive": 240,
+      "pct": 1.35
     }
   }
 ]
