@@ -351,16 +351,114 @@
   },
   {
     "date": "2021-01-08",
-    "testproviders": 13,
+    "testproviders": 15,
     "pcr": {
-      "tests": 892,
+      "tests": 912,
       "positive": 7,
-      "pct": 0.78
+      "pct": 0.77
     },
     "antigen": {
-      "tests": 17746,
-      "positive": 240,
-      "pct": 1.35
+      "tests": 18885,
+      "positive": 248,
+      "pct": 1.31
+    }
+  },
+  {
+    "date": "2021-01-09",
+    "testproviders": 14,
+    "pcr": {
+      "tests": 185,
+      "positive": 0,
+      "pct": 0
+    },
+    "antigen": {
+      "tests": 14745,
+      "positive": 171,
+      "pct": 1.16
+    }
+  },
+  {
+    "date": "2021-01-10",
+    "testproviders": 13,
+    "pcr": {
+      "tests": 372,
+      "positive": 1,
+      "pct": 0.27
+    },
+    "antigen": {
+      "tests": 14251,
+      "positive": 202,
+      "pct": 1.42
+    }
+  },
+  {
+    "date": "2021-01-11",
+    "testproviders": 21,
+    "pcr": {
+      "tests": 1559,
+      "positive": 26,
+      "pct": 1.67
+    },
+    "antigen": {
+      "tests": 22198,
+      "positive": 261,
+      "pct": 1.18
+    }
+  },
+  {
+    "date": "2021-01-12",
+    "testproviders": 19,
+    "pcr": {
+      "tests": 1558,
+      "positive": 25,
+      "pct": 1.6
+    },
+    "antigen": {
+      "tests": 15325,
+      "positive": 229,
+      "pct": 1.49
+    }
+  },
+  {
+    "date": "2021-01-13",
+    "testproviders": 19,
+    "pcr": {
+      "tests": 1254,
+      "positive": 9,
+      "pct": 0.72
+    },
+    "antigen": {
+      "tests": 16666,
+      "positive": 183,
+      "pct": 1.1
+    }
+  },
+  {
+    "date": "2021-01-14",
+    "testproviders": 17,
+    "pcr": {
+      "tests": 818,
+      "positive": 7,
+      "pct": 0.86
+    },
+    "antigen": {
+      "tests": 26777,
+      "positive": 214,
+      "pct": 0.8
+    }
+  },
+  {
+    "date": "2021-01-15",
+    "testproviders": 16,
+    "pcr": {
+      "tests": 1217,
+      "positive": 12,
+      "pct": 0.99
+    },
+    "antigen": {
+      "tests": 29653,
+      "positive": 182,
+      "pct": 0.61
     }
   }
 ]
