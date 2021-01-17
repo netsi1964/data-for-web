@@ -1271,11 +1271,11 @@
   {
     "date": "2020-06-16",
     "newpositive": 46,
-    "notprevpos": 18110,
+    "notprevpos": 18111,
     "pospct": 0,
     "prevpos": 91,
-    "tested": 18201,
-    "testedkumulativ": 836877
+    "tested": 18202,
+    "testedkumulativ": 836878
   },
   {
     "date": "2020-06-17",
@@ -1284,7 +1284,7 @@
     "pospct": 0,
     "prevpos": 89,
     "tested": 19225,
-    "testedkumulativ": 856102
+    "testedkumulativ": 856103
   },
   {
     "date": "2020-06-18",
@@ -1293,7 +1293,7 @@
     "pospct": 0,
     "prevpos": 76,
     "tested": 17515,
-    "testedkumulativ": 873617
+    "testedkumulativ": 873618
   },
   {
     "date": "2020-06-19",
@@ -1302,7 +1302,7 @@
     "pospct": 0,
     "prevpos": 85,
     "tested": 16991,
-    "testedkumulativ": 890608
+    "testedkumulativ": 890609
   },
   {
     "date": "2020-06-20",
@@ -1311,7 +1311,7 @@
     "pospct": 0,
     "prevpos": 54,
     "tested": 12098,
-    "testedkumulativ": 902706
+    "testedkumulativ": 902707
   },
   {
     "date": "2020-06-21",
@@ -1320,7 +1320,7 @@
     "pospct": 0,
     "prevpos": 78,
     "tested": 11416,
-    "testedkumulativ": 914122
+    "testedkumulativ": 914123
   },
   {
     "date": "2020-06-22",
@@ -1329,7 +1329,7 @@
     "pospct": 0,
     "prevpos": 118,
     "tested": 21457,
-    "testedkumulativ": 935579
+    "testedkumulativ": 935580
   },
   {
     "date": "2020-06-23",
@@ -1338,7 +1338,7 @@
     "pospct": 0,
     "prevpos": 101,
     "tested": 20913,
-    "testedkumulativ": 956492
+    "testedkumulativ": 956493
   },
   {
     "date": "2020-06-24",
@@ -1347,7 +1347,7 @@
     "pospct": 0,
     "prevpos": 82,
     "tested": 20079,
-    "testedkumulativ": 976571
+    "testedkumulativ": 976572
   },
   {
     "date": "2020-06-25",
@@ -1356,7 +1356,7 @@
     "pospct": 0,
     "prevpos": 82,
     "tested": 16830,
-    "testedkumulativ": 993401
+    "testedkumulativ": 993402
   },
   {
     "date": "2020-06-26",
@@ -1847,10 +1847,10 @@
   {
     "date": "2020-08-19",
     "newpositive": 87,
-    "notprevpos": 38912,
+    "notprevpos": 38913,
     "pospct": 0,
     "prevpos": 152,
-    "tested": 39064,
+    "tested": 39065,
     "testedkumulativ": 2069
   },
   {
@@ -2022,7 +2022,7 @@
     "pospct": 0,
     "prevpos": 253,
     "tested": 47810,
-    "testedkumulativ": 2746
+    "testedkumulativ": 2747
   },
   {
     "date": "2020-09-08",
@@ -2094,7 +2094,7 @@
     "pospct": 0,
     "prevpos": 259,
     "tested": 56154,
-    "testedkumulativ": 3141
+    "testedkumulativ": 3142
   },
   {
     "date": "2020-09-16",
@@ -2530,20 +2530,20 @@
   },
   {
     "date": "2020-11-03",
-    "newpositive": 1262,
-    "notprevpos": 72850,
+    "newpositive": 1261,
+    "notprevpos": 72849,
     "pospct": 1,
     "prevpos": 725,
-    "tested": 73575,
+    "tested": 73574,
     "testedkumulativ": 5503
   },
   {
     "date": "2020-11-04",
     "newpositive": 1244,
-    "notprevpos": 70581,
+    "notprevpos": 70583,
     "pospct": 1,
     "prevpos": 709,
-    "tested": 71290,
+    "tested": 71292,
     "testedkumulativ": 5574
   },
   {
@@ -2576,9 +2576,9 @@
   {
     "date": "2020-11-08",
     "newpositive": 758,
-    "notprevpos": 57626,
+    "notprevpos": 57627,
     "pospct": 1,
-    "prevpos": 544,
+    "prevpos": 543,
     "tested": 58170,
     "testedkumulativ": 5832
   },
@@ -2666,10 +2666,10 @@
   {
     "date": "2020-11-18",
     "newpositive": 1341,
-    "notprevpos": 78902,
+    "notprevpos": 78904,
     "pospct": 1,
     "prevpos": 859,
-    "tested": 79761,
+    "tested": 79763,
     "testedkumulativ": 6568
   },
   {
@@ -2792,10 +2792,10 @@
   {
     "date": "2020-12-02",
     "newpositive": 1876,
-    "notprevpos": 83334,
+    "notprevpos": 83335,
     "pospct": 2,
     "prevpos": 1013,
-    "tested": 84347,
+    "tested": 84348,
     "testedkumulativ": 7587
   },
   {
@@ -2810,10 +2810,10 @@
   {
     "date": "2020-12-04",
     "newpositive": 2022,
-    "notprevpos": 80517,
+    "notprevpos": 80518,
     "pospct": 2,
     "prevpos": 979,
-    "tested": 81496,
+    "tested": 81497,
     "testedkumulativ": 7757
   },
   {
@@ -2828,10 +2828,10 @@
   {
     "date": "2020-12-06",
     "newpositive": 1973,
-    "notprevpos": 68323,
+    "notprevpos": 68324,
     "pospct": 2,
     "prevpos": 732,
-    "tested": 69055,
+    "tested": 69056,
     "testedkumulativ": 7889
   },
   {
@@ -2846,100 +2846,100 @@
   {
     "date": "2020-12-08",
     "newpositive": 3109,
-    "notprevpos": 108617,
+    "notprevpos": 108619,
     "pospct": 2,
-    "prevpos": 1214,
-    "tested": 109831,
+    "prevpos": 1215,
+    "tested": 109834,
     "testedkumulativ": 8097
   },
   {
     "date": "2020-12-09",
     "newpositive": 3174,
-    "notprevpos": 107749,
+    "notprevpos": 107758,
     "pospct": 2,
     "prevpos": 1212,
-    "tested": 108961,
+    "tested": 108970,
     "testedkumulativ": 8206
   },
   {
     "date": "2020-12-10",
     "newpositive": 3268,
-    "notprevpos": 107592,
+    "notprevpos": 107593,
     "pospct": 3,
     "prevpos": 1259,
-    "tested": 108851,
-    "testedkumulativ": 8314
+    "tested": 108852,
+    "testedkumulativ": 8315
   },
   {
     "date": "2020-12-11",
     "newpositive": 3266,
-    "notprevpos": 100229,
+    "notprevpos": 100233,
     "pospct": 3,
     "prevpos": 1222,
-    "tested": 101451,
+    "tested": 101455,
     "testedkumulativ": 8416
   },
   {
     "date": "2020-12-12",
     "newpositive": 3077,
-    "notprevpos": 84408,
+    "notprevpos": 84412,
     "pospct": 3,
     "prevpos": 908,
-    "tested": 85316,
+    "tested": 85320,
     "testedkumulativ": 8501
   },
   {
     "date": "2020-12-13",
     "newpositive": 3167,
-    "notprevpos": 85719,
+    "notprevpos": 85722,
     "pospct": 3,
-    "prevpos": 973,
-    "tested": 86692,
+    "prevpos": 975,
+    "tested": 86697,
     "testedkumulativ": 8588
   },
   {
     "date": "2020-12-14",
     "newpositive": 3923,
-    "notprevpos": 119933,
+    "notprevpos": 119940,
     "pospct": 3,
     "prevpos": 1435,
-    "tested": 121368,
+    "tested": 121375,
     "testedkumulativ": 8709
   },
   {
     "date": "2020-12-15",
     "newpositive": 4255,
-    "notprevpos": 131766,
+    "notprevpos": 131767,
     "pospct": 3,
     "prevpos": 1733,
-    "tested": 133499,
+    "tested": 133500,
     "testedkumulativ": 8843
   },
   {
     "date": "2020-12-16",
     "newpositive": 4349,
-    "notprevpos": 133705,
+    "notprevpos": 133706,
     "pospct": 3,
     "prevpos": 1782,
-    "tested": 135487,
+    "tested": 135488,
     "testedkumulativ": 8978
   },
   {
     "date": "2020-12-17",
     "newpositive": 3578,
-    "notprevpos": 131138,
+    "notprevpos": 131141,
     "pospct": 2,
     "prevpos": 1621,
-    "tested": 132759,
+    "tested": 132762,
     "testedkumulativ": 9111
   },
   {
     "date": "2020-12-18",
     "newpositive": 3116,
-    "notprevpos": 127644,
+    "notprevpos": 127647,
     "pospct": 2,
     "prevpos": 1521,
-    "tested": 129165,
+    "tested": 129168,
     "testedkumulativ": 9240
   },
   {
@@ -2954,33 +2954,33 @@
   {
     "date": "2020-12-20",
     "newpositive": 2454,
-    "notprevpos": 119553,
+    "notprevpos": 119552,
     "pospct": 2,
     "prevpos": 1223,
-    "tested": 120776,
+    "tested": 120775,
     "testedkumulativ": 9476
   },
   {
     "date": "2020-12-21",
     "newpositive": 3067,
-    "notprevpos": 164304,
+    "notprevpos": 164305,
     "pospct": 1,
     "prevpos": 2027,
-    "tested": 166331,
+    "tested": 166332,
     "testedkumulativ": 9642
   },
   {
     "date": "2020-12-22",
     "newpositive": 2842,
-    "notprevpos": 159592,
+    "notprevpos": 159593,
     "pospct": 1,
     "prevpos": 2086,
-    "tested": 161678,
+    "tested": 161679,
     "testedkumulativ": 9804
   },
   {
     "date": "2020-12-23",
-    "newpositive": 3045,
+    "newpositive": 3046,
     "notprevpos": 117055,
     "pospct": 2,
     "prevpos": 1917,
@@ -3008,127 +3008,190 @@
   {
     "date": "2020-12-26",
     "newpositive": 2694,
-    "notprevpos": 61381,
+    "notprevpos": 61380,
     "pospct": 4,
     "prevpos": 1291,
-    "tested": 62672,
+    "tested": 62671,
     "testedkumulativ": 10063
   },
   {
     "date": "2020-12-27",
     "newpositive": 2196,
-    "notprevpos": 65870,
+    "notprevpos": 65873,
     "pospct": 3,
     "prevpos": 1175,
-    "tested": 67045,
+    "tested": 67048,
     "testedkumulativ": 10130
   },
   {
     "date": "2020-12-28",
     "newpositive": 3081,
-    "notprevpos": 109924,
+    "notprevpos": 109933,
     "pospct": 2,
-    "prevpos": 1847,
-    "tested": 111771,
+    "prevpos": 1848,
+    "tested": 111781,
     "testedkumulativ": 10242
   },
   {
     "date": "2020-12-29",
     "newpositive": 2495,
-    "notprevpos": 115555,
+    "notprevpos": 115564,
     "pospct": 2,
-    "prevpos": 1956,
-    "tested": 117511,
+    "prevpos": 1957,
+    "tested": 117521,
     "testedkumulativ": 10359
   },
   {
     "date": "2020-12-30",
     "newpositive": 2780,
-    "notprevpos": 108644,
+    "notprevpos": 108652,
     "pospct": 2,
-    "prevpos": 2132,
-    "tested": 110776,
+    "prevpos": 2133,
+    "tested": 110785,
     "testedkumulativ": 10470
   },
   {
     "date": "2020-12-31",
     "newpositive": 1229,
-    "notprevpos": 33409,
+    "notprevpos": 33412,
     "pospct": 3,
     "prevpos": 778,
-    "tested": 34187,
+    "tested": 34190,
     "testedkumulativ": 10504
   },
   {
     "date": "2021-01-01",
     "newpositive": 1214,
-    "notprevpos": 31224,
+    "notprevpos": 31228,
     "pospct": 3,
     "prevpos": 673,
-    "tested": 31897,
+    "tested": 31901,
     "testedkumulativ": 10536
   },
   {
     "date": "2021-01-02",
     "newpositive": 2058,
-    "notprevpos": 71733,
+    "notprevpos": 71739,
     "pospct": 2,
     "prevpos": 1431,
-    "tested": 73164,
+    "tested": 73170,
     "testedkumulativ": 10609
   },
   {
     "date": "2021-01-03",
     "newpositive": 1676,
-    "notprevpos": 63932,
+    "notprevpos": 63937,
     "pospct": 2,
     "prevpos": 1227,
-    "tested": 65159,
+    "tested": 65164,
     "testedkumulativ": 10675
   },
   {
     "date": "2021-01-04",
     "newpositive": 2472,
-    "notprevpos": 103675,
+    "notprevpos": 103764,
     "pospct": 2,
-    "prevpos": 2025,
-    "tested": 105700,
+    "prevpos": 2028,
+    "tested": 105792,
     "testedkumulativ": 10780
   },
   {
     "date": "2021-01-05",
-    "newpositive": 1930,
-    "notprevpos": 102472,
+    "newpositive": 1935,
+    "notprevpos": 102650,
     "pospct": 1,
-    "prevpos": 2099,
-    "tested": 104571,
+    "prevpos": 2106,
+    "tested": 104756,
     "testedkumulativ": 10885
   },
   {
     "date": "2021-01-06",
-    "newpositive": 1609,
-    "notprevpos": 89982,
+    "newpositive": 1659,
+    "notprevpos": 94565,
     "pospct": 1,
-    "prevpos": 1832,
-    "tested": 91814,
-    "testedkumulativ": 10977
+    "prevpos": 1908,
+    "tested": 96473,
+    "testedkumulativ": 10982
   },
   {
     "date": "2021-01-07",
-    "newpositive": 447,
-    "notprevpos": 19916,
-    "pospct": 2,
-    "prevpos": 538,
-    "tested": 20454,
-    "testedkumulativ": 10997
+    "newpositive": 1582,
+    "notprevpos": 84280,
+    "pospct": 1,
+    "prevpos": 1777,
+    "tested": 86057,
+    "testedkumulativ": 11068
   },
   {
     "date": "2021-01-08",
-    "newpositive": 3,
-    "notprevpos": 36,
-    "pospct": 8,
-    "prevpos": 2,
-    "tested": 38,
-    "testedkumulativ": 10997
+    "newpositive": 1438,
+    "notprevpos": 74475,
+    "pospct": 1,
+    "prevpos": 1640,
+    "tested": 76115,
+    "testedkumulativ": 11144
+  },
+  {
+    "date": "2021-01-09",
+    "newpositive": 1203,
+    "notprevpos": 52148,
+    "pospct": 2,
+    "prevpos": 1202,
+    "tested": 53350,
+    "testedkumulativ": 11197
+  },
+  {
+    "date": "2021-01-10",
+    "newpositive": 998,
+    "notprevpos": 47585,
+    "pospct": 2,
+    "prevpos": 1064,
+    "tested": 48649,
+    "testedkumulativ": 11246
+  },
+  {
+    "date": "2021-01-11",
+    "newpositive": 1353,
+    "notprevpos": 79963,
+    "pospct": 1,
+    "prevpos": 1965,
+    "tested": 81928,
+    "testedkumulativ": 11328
+  },
+  {
+    "date": "2021-01-12",
+    "newpositive": 1243,
+    "notprevpos": 83550,
+    "pospct": 1,
+    "prevpos": 1919,
+    "tested": 85469,
+    "testedkumulativ": 11413
+  },
+  {
+    "date": "2021-01-13",
+    "newpositive": 1103,
+    "notprevpos": 75329,
+    "pospct": 1,
+    "prevpos": 1733,
+    "tested": 77062,
+    "testedkumulativ": 11490
+  },
+  {
+    "date": "2021-01-14",
+    "newpositive": 298,
+    "notprevpos": 22730,
+    "pospct": 1,
+    "prevpos": 521,
+    "tested": 23251,
+    "testedkumulativ": 11514
+  },
+  {
+    "date": "2021-01-15",
+    "newpositive": 0,
+    "notprevpos": 21,
+    "pospct": 0,
+    "prevpos": 0,
+    "tested": 21,
+    "testedkumulativ": 11514
   }
 ]
